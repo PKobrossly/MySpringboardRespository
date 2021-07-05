@@ -1,43 +1,43 @@
 date,year,month,country,industry,company,dashname,views,requests,rendertime
-2021-01-03,2021,3,Australia,Consulting,KPMG,Project Analysis,3,4,30.234
-2021-01-03,2021,3,Australia,Other,APA Group,Wind Technical Analysis,1,1,5.322
-2021-01-03,2021,3,Australia,Other,Octopus Investments,Country Analysis,5,4,13.38
-2021-01-03,2021,3,Australia,Other,SunPower,Country Analysis,3,2,9.694
-2021-01-03,2021,3,Australia,Other,SunPower,Solar PV Technical Analysis,0,1,4.361
-2021-01-03,2021,3,Australia,Renewable Energy Company,Canadian Solar,Solar PV Technical Analysis,0,1,13.431
-2021-01-03,2021,3,Australia,Renewable Energy Company,FRV,Watts Generating - Australia,6,3,11.693
-2021-01-03,2021,3,Australia,Renewable Energy Company,Lightsource BP,Country Analysis,0,1,3.708
-2021-01-03,2021,3,Australia,Renewable Energy Company,Lightsource BP,Project Analysis,1,2,5.071
-2021-01-03,2021,3,Australia,Renewable Energy Company,Lightsource BP,Watts Generating - Australia,4,3,9.09
-2021-01-03,2021,3,Australia,Renewable Energy Company,Lightsource BP,Wind Technical Analysis,0,1,7.184
-2021-01-03,2021,3,Australia,Renewable Energy Company,Pacific Hydro,Country Analysis,6,5,35.783
-2021-01-03,2021,3,Australia,Renewable Energy Company,Pacific Hydro,Project Analysis,3,1,6.045
-2021-01-03,2021,3,Australia,Renewable Energy Company,Transgrid,Watts Generating - Australia,8,6,12.887
-2021-01-03,2021,3,Canada,Other,Tudor Pickering Holt,Project Analysis,3,2,8.388
-2021-01-03,2021,3,France,Energy Company,Total,Project Analysis,1,1,3.908
-2021-01-03,2021,3,India,Other,NexTracker,Country Analysis,4,1,4.453
-2021-01-03,2021,3,India,Other,NexTracker,Project Analysis,5,2,7.557
-2021-01-03,2021,3,India,Other,NexTracker,Solar PV Technical Analysis,0,1,3.92
-2021-01-03,2021,3,United Kingdom,Banking,Goldman Sachs,Country Analysis,8,5,38.933
-2021-01-03,2021,3,United Kingdom,Banking,Goldman Sachs,Mergers & Acquisitions,4,2,9.393
-2021-01-03,2021,3,United Kingdom,Trading,Andurand Capital,Wind Technical Analysis,1,1,8.269
-2021-01-03,2021,3,United States,Banking,Stifel Financial,Country Analysis,3,11,29.37
-2021-01-03,2021,3,United States,Banking,Stifel Financial,Project Analysis,0,1,4.195
-2021-01-03,2021,3,United States,Banking,Stifel Financial,Solar PV Technical Analysis,0,1,24.13
-2021-01-03,2021,3,United States,Banking,Stifel Financial,Wind Technical Analysis,0,1,3.507
-2021-02-03,2021,3,Australia,Other,Octopus Investments,Project Analysis,2,2,10.898
-2021-02-03,2021,3,Australia,Other,Phillip Riley,Project Analysis,0,2,19.248
-2021-02-03,2021,3,Australia,Renewable Energy Company,FRV,Watts Generating - Australia,1,1,24.79
-2021-02-03,2021,3,Australia,Renewable Energy Company,Longi Solar,Project Analysis,0,3,33.083
-2021-02-03,2021,3,Australia,Renewable Energy Company,Longi Solar,Solar PV Technical Analysis,0,2,10.713
-2021-02-03,2021,3,Australia,Renewable Energy Company,Pacific Hydro,Country Analysis,0,3,25.905
-2021-02-03,2021,3,India,Banking,HSBC,Solar PV Technical Analysis,1,1,8.245
-2021-02-03,2021,3,Netherlands,Banking,ABN AMRO Bank,Country Analysis,1,1,6.47
-2021-02-03,2021,3,Norway,Energy Company,Aker Energy,Project Analysis,1,1,4.926
-2021-02-03,2021,3,Norway,Energy Company,Equinor,Country Analysis,4,1,3.592
-2021-02-03,2021,3,Norway,Energy Company,Equinor,Mergers & Acquisitions,6,3,12.496
-2021-02-03,2021,3,Norway,Energy Company,Equinor,Renewables – E&P Companies,4,3,15.473
-2021-02-03,2021,3,Switzerland,Trading,Trafigura,Wind Technical Analysis,1,1,4.047
+2021-03-01,2021,3,Australia,Consulting,KPMG,Project Analysis,3,4,30.234
+2021-03-01,2021,3,Australia,Other,APA Group,Wind Technical Analysis,1,1,5.322
+2021-03-01,2021,3,Australia,Other,Octopus Investments,Country Analysis,5,4,13.38
+2021-03-01,2021,3,Australia,Other,SunPower,Country Analysis,3,2,9.694
+2021-03-01,2021,3,Australia,Other,SunPower,Solar PV Technical Analysis,0,1,4.361
+2021-03-01,2021,3,Australia,Renewable Energy Company,Canadian Solar,Solar PV Technical Analysis,0,1,13.431
+2021-03-01,2021,3,Australia,Renewable Energy Company,FRV,Watts Generating - Australia,6,3,11.693
+2021-03-01,2021,3,Australia,Renewable Energy Company,Lightsource BP,Country Analysis,0,1,3.708
+2021-03-01,2021,3,Australia,Renewable Energy Company,Lightsource BP,Project Analysis,1,2,5.071
+2021-03-01,2021,3,Australia,Renewable Energy Company,Lightsource BP,Watts Generating - Australia,4,3,9.09
+2021-03-01,2021,3,Australia,Renewable Energy Company,Lightsource BP,Wind Technical Analysis,0,1,7.184
+2021-03-01,2021,3,Australia,Renewable Energy Company,Pacific Hydro,Country Analysis,6,5,35.783
+2021-03-01,2021,3,Australia,Renewable Energy Company,Pacific Hydro,Project Analysis,3,1,6.045
+2021-03-01,2021,3,Australia,Renewable Energy Company,Transgrid,Watts Generating - Australia,8,6,12.887
+2021-03-01,2021,3,Canada,Other,Tudor Pickering Holt,Project Analysis,3,2,8.388
+2021-03-01,2021,3,France,Energy Company,Total,Project Analysis,1,1,3.908
+2021-03-01,2021,3,India,Other,NexTracker,Country Analysis,4,1,4.453
+2021-03-01,2021,3,India,Other,NexTracker,Project Analysis,5,2,7.557
+2021-03-01,2021,3,India,Other,NexTracker,Solar PV Technical Analysis,0,1,3.92
+2021-03-01,2021,3,United Kingdom,Banking,Goldman Sachs,Country Analysis,8,5,38.933
+2021-03-01,2021,3,United Kingdom,Banking,Goldman Sachs,Mergers & Acquisitions,4,2,9.393
+2021-03-01,2021,3,United Kingdom,Trading,Andurand Capital,Wind Technical Analysis,1,1,8.269
+2021-03-01,2021,3,United States,Banking,Stifel Financial,Country Analysis,3,11,29.37
+2021-03-01,2021,3,United States,Banking,Stifel Financial,Project Analysis,0,1,4.195
+2021-03-01,2021,3,United States,Banking,Stifel Financial,Solar PV Technical Analysis,0,1,24.13
+2021-03-01,2021,3,United States,Banking,Stifel Financial,Wind Technical Analysis,0,1,3.507
+2021-03-02,2021,3,Australia,Other,Octopus Investments,Project Analysis,2,2,10.898
+2021-03-02,2021,3,Australia,Other,Phillip Riley,Project Analysis,0,2,19.248
+2021-03-02,2021,3,Australia,Renewable Energy Company,FRV,Watts Generating - Australia,1,1,24.79
+2021-03-02,2021,3,Australia,Renewable Energy Company,Longi Solar,Project Analysis,0,3,33.083
+2021-03-02,2021,3,Australia,Renewable Energy Company,Longi Solar,Solar PV Technical Analysis,0,2,10.713
+2021-03-02,2021,3,Australia,Renewable Energy Company,Pacific Hydro,Country Analysis,0,3,25.905
+2021-03-02,2021,3,India,Banking,HSBC,Solar PV Technical Analysis,1,1,8.245
+2021-03-02,2021,3,Netherlands,Banking,ABN AMRO Bank,Country Analysis,1,1,6.47
+2021-03-02,2021,3,Norway,Energy Company,Aker Energy,Project Analysis,1,1,4.926
+2021-03-02,2021,3,Norway,Energy Company,Equinor,Country Analysis,4,1,3.592
+2021-03-02,2021,3,Norway,Energy Company,Equinor,Mergers & Acquisitions,6,3,12.496
+2021-03-02,2021,3,Norway,Energy Company,Equinor,Renewables – E&P Companies,4,3,15.473
+2021-03-02,2021,3,Switzerland,Trading,Trafigura,Wind Technical Analysis,1,1,4.047
 2021-03-03,2021,3,Australia,Energy Company,Elecnor,Country Analysis,10,3,14.036
 2021-03-03,2021,3,Australia,Energy Company,Elecnor,Solar PV Technical Analysis,2,1,6.736
 2021-03-03,2021,3,Australia,Energy Company,Elecnor,Watts Generating - Australia,9,3,8.569
@@ -58,260 +58,260 @@ date,year,month,country,industry,company,dashname,views,requests,rendertime
 2021-03-03,2021,3,UAE,Oilfield Service Company,National Oilwell Varco,Renewables – E&P Companies,2,1,5.764
 2021-03-03,2021,3,United Kingdom,Research Institute/University,SOAS University of London,Solar PV Technical Analysis,0,1,3.548
 2021-03-03,2021,3,United States,Other,Tudor Pickering Holt,Project Analysis,0,1,3.848
-2021-04-03,2021,3,Australia,Energy Company,Elecnor,Country Analysis,3,3,36.04
-2021-04-03,2021,3,Australia,Energy Company,Elecnor,Project Analysis,0,1,5.055
-2021-04-03,2021,3,Australia,Energy Company,Elecnor,Solar PV Technical Analysis,2,4,683.26
-2021-04-03,2021,3,Australia,Energy Company,Elecnor,Watts Generating - Australia,4,3,9.39
-2021-04-03,2021,3,Australia,Other,APA Group,Storage Technical Analysis,2,1,3.489
-2021-04-03,2021,3,Australia,Other,JA Solar,Project Analysis,1,2,5.454
-2021-04-03,2021,3,Australia,Renewable Energy Company,FRV,Project Analysis,1,2,11.214
-2021-04-03,2021,3,Australia,Renewable Energy Company,FRV,Watts Generating - Australia,1,1,4.925
-2021-04-03,2021,3,Australia,Renewable Energy Company,Longi Solar,Project Analysis,8,3,60.389
-2021-04-03,2021,3,Australia,Renewable Energy Company,Transgrid,Watts Generating - Australia,1,2,5.352
-2021-04-03,2021,3,Australia,Renewable Energy Company,Trina Solar,Solar PV Technical Analysis,1,1,5.621
-2021-04-03,2021,3,Canada,Other,Tudor Pickering Holt,Country Analysis,0,6,9.09
-2021-04-03,2021,3,Canada,Other,Tudor Pickering Holt,Wind Technical Analysis,0,1,3.998
-2021-04-03,2021,3,Norway,Energy Company,Equinor,Renewables – E&P Companies,2,1,3.746
-2021-04-03,2021,3,United Kingdom,Banking,Goldman Sachs,Project Analysis,1,1,6.353
-2021-04-03,2021,3,United Kingdom,Banking,Goldman Sachs,Renewables – E&P Companies,2,1,5.252
-2021-04-03,2021,3,United Kingdom,Banking,Simmons Energy,Wind Technical Analysis,1,2,9.523
-2021-04-03,2021,3,United Kingdom,Oilfield Service Company,Worley,Country Analysis,5,4,13.822
-2021-04-03,2021,3,United Kingdom,Oilfield Service Company,Worley,Project Analysis,7,2,6.062
-2021-04-03,2021,3,United States,Banking,Stifel Financial,Solar PV Technical Analysis,1,1,3.803
-2021-04-03,2021,3,United States,Energy Company,Chevron,Mergers & Acquisitions,1,2,14.571
-2021-04-03,2021,3,United States,Energy Company,Chevron,Project Analysis,1,1,16.688
-2021-04-03,2021,3,United States,Energy Company,Chevron,Renewables – E&P Companies,2,1,5.779
-2021-04-03,2021,3,United States,Energy Company,Chevron,Wind Technical Analysis,0,1,5.162
-2021-04-03,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Solar PV Technical Analysis,0,1,87.763
-2021-04-03,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Storage Technical Analysis,0,1,3.754
-2021-04-03,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Wind Technical Analysis,0,1,4.802
-2021-05-03,2021,3,Australia,Energy Company,Elecnor,Mergers & Acquisitions,2,1,2.517
-2021-05-03,2021,3,Australia,Renewable Energy Company,FRV,Watts Generating - Australia,1,1,46.281
-2021-05-03,2021,3,Australia,Renewable Energy Company,Lightsource BP,Project Analysis,0,1,4.944
-2021-05-03,2021,3,Australia,Renewable Energy Company,Lightsource BP,Watts Generating - Australia,1,1,3.887
-2021-05-03,2021,3,Australia,Renewable Energy Company,Longi Solar,Project Analysis,1,3,12.083
-2021-05-03,2021,3,Norway,Energy Company,Equinor,Country Analysis,2,3,18.357
-2021-05-03,2021,3,Norway,Energy Company,Equinor,Storage Technical Analysis,2,1,3.791
-2021-05-03,2021,3,United States,Renewable Energy Company,Terabase,Solar PV Technical Analysis,0,1,3.583
-2021-06-03,2021,3,Australia,Renewable Energy Company,Lightsource BP,Project Analysis,9,4,70.407
-2021-06-03,2021,3,Australia,Renewable Energy Company,Lightsource BP,Watts Generating - Australia,1,2,6.797
-2021-06-03,2021,3,Australia,Renewable Energy Company,Lightsource BP,Wind Technical Analysis,2,2,5.705
-2021-06-03,2021,3,Germany,Oilfield Service Company,National Oilwell Varco,Project Analysis,1,1,4.686
-2021-07-03,2021,3,Australia,Consulting,KPMG,Country Analysis,0,1,45.851
-2021-07-03,2021,3,Australia,Renewable Energy Company,Lightsource BP,Country Analysis,0,1,32.762
-2021-07-03,2021,3,Australia,Renewable Energy Company,Lightsource BP,Project Analysis,4,3,34.151
-2021-07-03,2021,3,Australia,Renewable Energy Company,Lightsource BP,Watts Generating - Australia,2,1,5.551
-2021-07-03,2021,3,Germany,Oilfield Service Company,National Oilwell Varco,Country Analysis,3,1,3.041
-2021-08-03,2021,3,Australia,Energy Company,Elecnor,Country Analysis,1,1,3.671
-2021-08-03,2021,3,Australia,Energy Company,Elecnor,Project Analysis,1,3,33.924
-2021-08-03,2021,3,Australia,Energy Company,Elecnor,Storage Technical Analysis,0,1,1.748
-2021-08-03,2021,3,Australia,Other,NexTracker,Project Analysis,0,1,13.044
-2021-08-03,2021,3,Australia,Renewable Energy Company,FRV,Country Analysis,1,1,19.262
-2021-08-03,2021,3,Australia,Renewable Energy Company,Risen Energy,Solar PV Technical Analysis,0,1,10.181
-2021-08-03,2021,3,Australia,Renewable Energy Company,Venn Energy,Mergers & Acquisitions,3,2,24.82
-2021-08-03,2021,3,Australia,Renewable Energy Company,Venn Energy,Project Analysis,7,3,22.512
-2021-08-03,2021,3,Australia,Renewable Energy Company,Venn Energy,Solar PV Technical Analysis,3,3,6.399
-2021-08-03,2021,3,Australia,Renewable Energy Company,Venn Energy,Storage Technical Analysis,3,2,5.752
-2021-08-03,2021,3,Australia,Renewable Energy Company,Venn Energy,Watts Generating - Australia,8,2,8.504
-2021-08-03,2021,3,Norway,Energy Company,Equinor,Country Analysis,2,2,12.119
-2021-08-03,2021,3,Norway,Energy Company,Equinor,Mergers & Acquisitions,3,2,3.369
-2021-08-03,2021,3,Norway,Energy Company,Equinor,Project Analysis,0,1,7.901
-2021-08-03,2021,3,Norway,Energy Company,Equinor,Renewables – E&P Companies,5,3,13.124
-2021-08-03,2021,3,Norway,Energy Company,Equinor,Storage Technical Analysis,1,1,5.018
-2021-08-03,2021,3,Norway,Energy Company,Equinor,Wind Technical Analysis,1,1,5.732
-2021-08-03,2021,3,Norway,Oilfield Service Company,Autronica,Storage Technical Analysis,1,1,15.384
-2021-08-03,2021,3,Spain,Government bodies & Organizations,DG Energy,Wind Technical Analysis,3,1,4.174
-2021-08-03,2021,3,United Kingdom,Banking,Goldman Sachs,Project Analysis,0,1,12.605
-2021-08-03,2021,3,United Kingdom,Banking,Simmons Energy,Country Analysis,2,2,9.357
-2021-08-03,2021,3,United Kingdom,Banking,Simmons Energy,Project Analysis,1,1,5.092
-2021-08-03,2021,3,United Kingdom,Other,ABB,Project Analysis,0,1,4.253
-2021-08-03,2021,3,United Kingdom,Other,Elgin Energy,Mergers & Acquisitions,2,1,8.731
-2021-08-03,2021,3,United States,Banking,Stifel Financial,Country Analysis,4,5,37.663
-2021-08-03,2021,3,United States,Banking,Stifel Financial,Wind Technical Analysis,3,7,19.419
-2021-08-03,2021,3,United States,Energy Company,Chevron,Project Analysis,1,1,45.736
-2021-08-03,2021,3,United States,Oilfield Service Company,Schlumberger,Renewables – E&P Companies,1,1,3.79
-2021-08-03,2021,3,United States,Oilfield Service Company,Schlumberger,Wind Technical Analysis,1,1,3.926
-2021-08-03,2021,3,Vietnam,Government bodies & Organizations,Deutsche Gesellschaft fur Internationale Zusammenarbeit (GIZ),Country Analysis,4,1,6.482
-2021-08-03,2021,3,Vietnam,Government bodies & Organizations,Deutsche Gesellschaft fur Internationale Zusammenarbeit (GIZ),Project Analysis,6,1,7.094
-2021-09-03,2021,3,Australia,Consulting,KPMG,Project Analysis,2,1,21.102
-2021-09-03,2021,3,Australia,Renewable Energy Company,CWP Renewables,Country Analysis,0,1,4.216
-2021-09-03,2021,3,Australia,Renewable Energy Company,CWP Renewables,Project Analysis,2,2,4.434
-2021-09-03,2021,3,Australia,Renewable Energy Company,CWP Renewables,Renewables – E&P Companies,0,1,3.974
-2021-09-03,2021,3,Australia,Renewable Energy Company,CWP Renewables,Watts Generating - Australia,4,5,7.505
-2021-09-03,2021,3,Australia,Renewable Energy Company,Lightsource BP,Project Analysis,3,1,7.81
-2021-09-03,2021,3,Australia,Renewable Energy Company,Longi Solar,Country Analysis,0,1,14.198
-2021-09-03,2021,3,Australia,Renewable Energy Company,Longi Solar,Project Analysis,1,2,20.474
-2021-09-03,2021,3,Australia,Renewable Energy Company,Longi Solar,Solar PV Technical Analysis,0,1,4.061
-2021-09-03,2021,3,Australia,Renewable Energy Company,PARF,Watts Generating - Australia,3,4,5.551
-2021-09-03,2021,3,India,Oilfield Service Company,Larsen & Toubro,Renewables – E&P Companies,0,1,49.453
-2021-09-03,2021,3,Norway,Consulting,PWC,Storage Technical Analysis,1,1,2.472
-2021-09-03,2021,3,Norway,Energy Company,Equinor,Country Analysis,5,1,5.702
-2021-09-03,2021,3,Norway,Oilfield Service Company,Autronica,Project Analysis,1,1,74.401
-2021-09-03,2021,3,Norway,Oilfield Service Company,Autronica,Storage Technical Analysis,8,1,47.932
-2021-09-03,2021,3,Russia,Energy Company,Gazprom,Project Analysis,0,1,11.598
-2021-09-03,2021,3,United Kingdom,Banking,Simmons Energy,Mergers & Acquisitions,1,1,2.657
-2021-09-03,2021,3,United Kingdom,Banking,Simmons Energy,Project Analysis,7,6,26.68
-2021-09-03,2021,3,United Kingdom,Banking,Simmons Energy,Renewables – E&P Companies,1,1,4.083
-2021-09-03,2021,3,United Kingdom,Oilfield Service Company,Proserv,Wind Technical Analysis,0,1,4.782
-2021-09-03,2021,3,United Kingdom,Other,Elgin Energy,Mergers & Acquisitions,1,1,14.819
-2021-09-03,2021,3,United States,Banking,Stifel Financial,Country Analysis,1,4,20.44
-2021-09-03,2021,3,United States,Banking,Stifel Financial,Project Analysis,1,2,14.466
-2021-09-03,2021,3,United States,Banking,Stifel Financial,Wind Technical Analysis,10,9,51.539
-2021-09-03,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Country Analysis,4,4,28.242
-2021-09-03,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Mergers & Acquisitions,0,2,7.831
-2021-09-03,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Project Analysis,3,8,37.557
-2021-09-03,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Renewables – E&P Companies,0,2,19.75
-2021-09-03,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Solar PV Technical Analysis,1,3,13.823
-2021-09-03,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Storage Technical Analysis,0,1,3.005
-2021-09-03,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Wind Technical Analysis,4,2,10.871
-2021-10-03,2021,3,Australia,Banking,National Australia Bank,Mergers & Acquisitions,7,4,13.498
-2021-10-03,2021,3,Australia,Banking,National Australia Bank,Project Analysis,1,2,16.198
-2021-10-03,2021,3,Australia,Banking,National Australia Bank,Solar PV Technical Analysis,1,1,9.68
-2021-10-03,2021,3,Australia,Energy Company,Elecnor,Project Analysis,2,4,6.696
-2021-10-03,2021,3,Australia,Energy Company,Elecnor,Renewables – E&P Companies,1,1,4.26
-2021-10-03,2021,3,Australia,Energy Company,Elecnor,Watts Generating - Australia,5,3,1.644
-2021-10-03,2021,3,Australia,Energy Company,Woodside,Country Analysis,0,1,20.6
-2021-10-03,2021,3,Australia,Other,ABB,Project Analysis,3,1,27.831
-2021-10-03,2021,3,Australia,Other,APA Group,Project Analysis,0,1,17.073
-2021-10-03,2021,3,Australia,Other,APA Group,Storage Technical Analysis,1,1,4.663
-2021-10-03,2021,3,China,Banking,Goldman Sachs,Country Analysis,1,1,6.972
-2021-10-03,2021,3,Hungary,Energy Company,ExxonMobil,Project Analysis,0,2,29.357
-2021-10-03,2021,3,Hungary,Energy Company,ExxonMobil,Renewables – E&P Companies,7,3,19.324
-2021-10-03,2021,3,Hungary,Energy Company,ExxonMobil,Storage Technical Analysis,0,1,2.619
-2021-10-03,2021,3,India,Oilfield Service Company,Oceaneering,Project Analysis,0,1,4.117
-2021-10-03,2021,3,India,Oilfield Service Company,Oceaneering,Storage Technical Analysis,0,1,4.35
-2021-10-03,2021,3,India,Oilfield Service Company,Oceaneering,Wind Technical Analysis,0,1,6.211
-2021-10-03,2021,3,Japan,Oilfield Service Company,Marubeni Itochu,Project Analysis,0,2,11.383
-2021-10-03,2021,3,Netherlands,Oilfield Service Company,National Oilwell Varco,Country Analysis,5,2,7.992
-2021-10-03,2021,3,Netherlands,Oilfield Service Company,National Oilwell Varco,Renewables – E&P Companies,0,1,3.874
-2021-10-03,2021,3,Netherlands,Oilfield Service Company,National Oilwell Varco,Wind Technical Analysis,9,6,13.415
-2021-10-03,2021,3,Norway,Energy Company,Equinor,Country Analysis,4,3,19.135
-2021-10-03,2021,3,Norway,Energy Company,Equinor,Project Analysis,3,1,5.261
-2021-10-03,2021,3,Norway,Energy Company,Equinor,Renewables – E&P Companies,0,1,4.332
-2021-10-03,2021,3,Norway,Energy Company,Equinor,Wind Technical Analysis,0,1,5.373
-2021-10-03,2021,3,Norway,Oilfield Service Company,Autronica,Storage Technical Analysis,3,1,6.842
-2021-10-03,2021,3,Norway,Oilfield Service Company,Autronica,Wind Technical Analysis,1,2,15.022
-2021-10-03,2021,3,Russia,Energy Company,Gazprom,Project Analysis,0,1,11.722
-2021-10-03,2021,3,Singapore,Banking,HSBC,Country Analysis,0,1,24.732
-2021-10-03,2021,3,Singapore,Other,NexTracker,Country Analysis,0,1,124.135
-2021-10-03,2021,3,Singapore,Other,NexTracker,Project Analysis,0,1,28.691
-2021-10-03,2021,3,Singapore,Other,NexTracker,Renewables – E&P Companies,0,1,32.733
-2021-10-03,2021,3,Singapore,Other,NexTracker,Solar PV Technical Analysis,4,1,43.44
-2021-10-03,2021,3,Spain,Other,Iberdrola,Project Analysis,2,2,15.614
-2021-10-03,2021,3,Spain,Other,Iberdrola,Watts Generating - Australia,1,1,3.223
-2021-10-03,2021,3,United States,Energy Company,Chevron,Project Analysis,7,5,80.46
-2021-10-03,2021,3,United States,Energy Company,Occidental Petroleum,Storage Technical Analysis,0,1,3.348
-2021-10-03,2021,3,United States,Industrial,Sumitomo Corporation,Wind Technical Analysis,2,1,11.773
-2021-11-03,2021,3,Australia,Energy Company,Eneos,Project Analysis,1,3,42.621
-2021-11-03,2021,3,Australia,Energy Company,Eneos,Watts Generating - Australia,1,1,8.682
-2021-11-03,2021,3,Australia,Other,APA Group,Project Analysis,0,1,8.553
-2021-11-03,2021,3,Australia,Other,Iberdrola,Country Analysis,0,1,12.054
-2021-11-03,2021,3,Australia,Other,Iberdrola,Project Analysis,0,1,16.197
-2021-11-03,2021,3,Australia,Other,Windlab,Solar PV Technical Analysis,2,2,4.374
-2021-11-03,2021,3,Australia,Renewable Energy Company,Array Technologies,Project Analysis,11,3,12.467
-2021-11-03,2021,3,Australia,Renewable Energy Company,Array Technologies,Renewables – E&P Companies,0,1,5.755
-2021-11-03,2021,3,Australia,Renewable Energy Company,Array Technologies,Solar PV Technical Analysis,1,2,17.608
-2021-11-03,2021,3,Australia,Renewable Energy Company,Lightsource BP,Project Analysis,9,3,15.074
-2021-11-03,2021,3,Australia,Renewable Energy Company,Lightsource BP,Watts Generating - Australia,3,2,19.821
-2021-11-03,2021,3,Australia,Renewable Energy Company,PARF,Watts Generating - Australia,0,1,3.167
-2021-11-03,2021,3,Australia,Trading,Trafigura,Project Analysis,3,3,4.207
-2021-11-03,2021,3,Canada,Government bodies & Organizations,Alberta Government,Project Analysis,0,1,6.075
-2021-11-03,2021,3,Hungary,Energy Company,ExxonMobil,Project Analysis,1,1,4.841
-2021-11-03,2021,3,Hungary,Energy Company,ExxonMobil,Renewables – E&P Companies,18,3,26.873
-2021-11-03,2021,3,Norway,Oilfield Service Company,National Oilwell Varco,Country Analysis,1,3,7.608
-2021-11-03,2021,3,Norway,Oilfield Service Company,National Oilwell Varco,Mergers & Acquisitions,2,1,2.776
-2021-11-03,2021,3,Norway,Oilfield Service Company,National Oilwell Varco,Renewables  - Economic Analysis,0,2,0.0
-2021-11-03,2021,3,Singapore,Other,NexTracker,Country Analysis,2,1,5.5
-2021-11-03,2021,3,Singapore,Other,NexTracker,Solar PV Technical Analysis,4,2,5.4
-2021-11-03,2021,3,South Korea,Other,DNV,Wind Technical Analysis,2,1,5.18
-2021-11-03,2021,3,Spain,Other,Iberdrola,Country Analysis,1,1,5.96
-2021-11-03,2021,3,Spain,Other,Iberdrola,Project Analysis,5,2,12.085
-2021-11-03,2021,3,United Kingdom,Banking,Simmons Energy,Storage Technical Analysis,2,1,15.86
-2021-11-03,2021,3,United Kingdom,Other,Elgin Energy,Project Analysis,0,3,89.85
-2021-11-03,2021,3,United Kingdom,Other,Elgin Energy,Watts Generating - Australia,7,2,45.678
-2021-11-03,2021,3,United States,Energy Company,Chevron,Mergers & Acquisitions,1,1,3.61
-2021-11-03,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Country Analysis,2,1,9.319
-2021-11-03,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Renewables  - Economic Analysis,0,2,0.0
-2021-11-03,2021,3,United States,Oilfield Service Company,Schlumberger,Country Analysis,0,1,4.531
-2021-11-03,2021,3,United States,Oilfield Service Company,Schlumberger,Project Analysis,5,1,4.637
-2021-11-03,2021,3,United States,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,0,3,0.0
-2021-12-03,2021,3,Australia,Energy Company,CS Energy,Country Analysis,0,2,7.339
-2021-12-03,2021,3,Australia,Energy Company,Elecnor,Country Analysis,6,4,18.116
-2021-12-03,2021,3,Australia,Energy Company,Elecnor,Renewables – E&P Companies,1,2,12.239
-2021-12-03,2021,3,Australia,Energy Company,Elecnor,Watts Generating - Australia,7,4,14.453
-2021-12-03,2021,3,Australia,Energy Company,Elecnor,Wind Technical Analysis,2,4,12.164
-2021-12-03,2021,3,Australia,Energy Company,Eneos,Project Analysis,22,5,71.462
-2021-12-03,2021,3,Australia,Other,APA Group,Project Analysis,0,1,9.858
-2021-12-03,2021,3,Australia,Other,APA Group,Watts Generating - Australia,3,2,5.816
-2021-12-03,2021,3,Australia,Other,SunPower,Country Analysis,6,2,3.602
-2021-12-03,2021,3,Australia,Other,SunPower,Mergers & Acquisitions,0,1,5.624
-2021-12-03,2021,3,Australia,Other,SunPower,Project Analysis,5,7,10.217
-2021-12-03,2021,3,Australia,Other,SunPower,Wind Technical Analysis,3,2,5.411
-2021-12-03,2021,3,Australia,Other,Windlab,Project Analysis,0,1,6.194
-2021-12-03,2021,3,Australia,Renewable Energy Company,CleanCo,Renewables  - Economic Analysis,0,6,492.464
-2021-12-03,2021,3,Australia,Renewable Energy Company,Pacific Hydro,Country Analysis,1,1,3.315
-2021-12-03,2021,3,Australia,Renewable Energy Company,Pacific Hydro,Renewables  - Economic Analysis,0,2,0.0
-2021-12-03,2021,3,Australia,Renewable Energy Company,Pacific Hydro,Solar PV Technical Analysis,0,1,4.372
-2021-12-03,2021,3,Australia,Renewable Energy Company,PARF,Renewables  - Economic Analysis,0,4,6.8
-2021-12-03,2021,3,Australia,Renewable Energy Company,PARF,Storage Technical Analysis,1,1,4.489
-2021-12-03,2021,3,Canada,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,0,1,0.0
-2021-12-03,2021,3,Denmark,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,0,1,0.0
-2021-12-03,2021,3,France,Oilfield Service Company,Schlumberger,Storage Technical Analysis,0,1,2.465
-2021-12-03,2021,3,Germany,Oilfield Service Company,National Oilwell Varco,Country Analysis,14,4,3.805
-2021-12-03,2021,3,Germany,Oilfield Service Company,National Oilwell Varco,Project Analysis,2,3,18.141
-2021-12-03,2021,3,Germany,Oilfield Service Company,National Oilwell Varco,Renewables  - Economic Analysis,0,2,16.422
-2021-12-03,2021,3,Germany,Other,DNV,Mergers & Acquisitions,0,1,3.132
-2021-12-03,2021,3,Germany,Other,DNV,Renewables  - Economic Analysis,0,1,0.0
-2021-12-03,2021,3,Hungary,Energy Company,ExxonMobil,Renewables – E&P Companies,2,1,8.667
-2021-12-03,2021,3,India,Banking,HSBC,Renewables  - Economic Analysis,0,6,0.0
-2021-12-03,2021,3,India,Other,NexTracker,Country Analysis,3,1,5.121
-2021-12-03,2021,3,India,Other,NexTracker,Project Analysis,9,2,9.421
-2021-12-03,2021,3,Norway,Energy Company,Aker Energy,Project Analysis,1,1,6.873
-2021-12-03,2021,3,Norway,Energy Company,Equinor,Mergers & Acquisitions,0,1,2.431
-2021-12-03,2021,3,Norway,Energy Company,Equinor,Project Analysis,0,1,3.041
-2021-12-03,2021,3,Norway,Energy Company,Equinor,Wind Technical Analysis,0,1,8.087
-2021-12-03,2021,3,Norway,Oilfield Service Company,National Oilwell Varco,Wind Technical Analysis,0,1,6.892
-2021-12-03,2021,3,Norway,Oilfield Service Company,Schlumberger,Country Analysis,0,1,2.97
-2021-12-03,2021,3,Norway,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,0,2,0.0
-2021-12-03,2021,3,Norway,Other,NBIM,Renewables  - Economic Analysis,0,1,0.0
-2021-12-03,2021,3,Norway,Other,NBIM,Renewables – E&P Companies,4,1,10.984
-2021-12-03,2021,3,Singapore,Banking,HSBC,Renewables  - Economic Analysis,0,4,0.0
-2021-12-03,2021,3,Singapore,Banking,HSBC,Wind Technical Analysis,0,1,8.74
-2021-12-03,2021,3,Singapore,Energy Company,Equinor,Country Analysis,0,1,4.144
-2021-12-03,2021,3,Singapore,Energy Company,Equinor,Renewables  - Economic Analysis,0,2,0.0
-2021-12-03,2021,3,Singapore,Energy Company,Equinor,Renewables – E&P Companies,0,1,4.445
-2021-12-03,2021,3,Singapore,Energy Company,Equinor,Solar PV Technical Analysis,0,1,3.406
-2021-12-03,2021,3,Singapore,Energy Company,Equinor,Storage Technical Analysis,0,1,2.778
-2021-12-03,2021,3,Singapore,Energy Company,Equinor,Wind Technical Analysis,0,1,3.365
-2021-12-03,2021,3,Spain,Other,Iberdrola,Renewables  - Economic Analysis,0,7,5.663
-2021-12-03,2021,3,Spain,Other,Soltec,Renewables  - Economic Analysis,0,3,0.0
-2021-12-03,2021,3,Trinidad and Tobago,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,0,1,0.0
-2021-12-03,2021,3,United Kingdom,Banking,Goldman Sachs,Country Analysis,3,6,16.523
-2021-12-03,2021,3,United Kingdom,Banking,Goldman Sachs,Renewables  - Economic Analysis,0,1,0.0
-2021-12-03,2021,3,United Kingdom,Banking,Simmons Energy,Country Analysis,2,1,8.264
-2021-12-03,2021,3,United Kingdom,Banking,Simmons Energy,Renewables  - Economic Analysis,0,3,0.0
-2021-12-03,2021,3,United Kingdom,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,0,7,15.781
-2021-12-03,2021,3,United Kingdom,Other,Elgin Energy,Mergers & Acquisitions,3,2,38.569
-2021-12-03,2021,3,United Kingdom,Other,Elgin Energy,Project Analysis,3,2,61.607
-2021-12-03,2021,3,United Kingdom,Other,Elgin Energy,Storage Technical Analysis,2,1,13.335
-2021-12-03,2021,3,United Kingdom,Other,Elgin Energy,Watts Generating - Australia,1,1,21.421
-2021-12-03,2021,3,United Kingdom,Other,FTI Consulting,Renewables  - Economic Analysis,0,2,0.0
-2021-12-03,2021,3,United Kingdom,Other,FTI Consulting,Renewables – E&P Companies,1,1,5.031
-2021-12-03,2021,3,United Kingdom,Other,FTI Consulting,Wind Technical Analysis,0,1,3.915
-2021-12-03,2021,3,United Kingdom,Other,Tudor Pickering Holt,Project Analysis,0,1,3.474
-2021-12-03,2021,3,United Kingdom,Other,Tudor Pickering Holt,Renewables  - Economic Analysis,0,1,0.0
-2021-12-03,2021,3,United States,Banking,SMBC Nikko Securities,Renewables  - Economic Analysis,0,1,0.0
-2021-12-03,2021,3,United States,Energy Company,Chevron,Renewables  - Economic Analysis,0,6,0.0
-2021-12-03,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Country Analysis,3,2,4.487
-2021-12-03,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Renewables  - Economic Analysis,0,9,471.689
-2021-12-03,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Renewables – E&P Companies,0,1,3.985
-2021-12-03,2021,3,United States,Oilfield Service Company,Schlumberger,Country Analysis,1,2,24.861
-2021-12-03,2021,3,United States,Oilfield Service Company,Schlumberger,Project Analysis,0,2,8.35
-2021-12-03,2021,3,United States,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,0,21,48.075
-2021-12-03,2021,3,United States,Oilfield Service Company,Schlumberger,Wind Technical Analysis,0,1,3.623
-2021-12-03,2021,3,United States,Other,DNV,Project Analysis,2,4,6.167
-2021-12-03,2021,3,United States,Other,DNV,Renewables  - Economic Analysis,0,1,0.0
-2021-12-03,2021,3,United States,Other,Helix Energy Solutions Group,Renewables  - Economic Analysis,0,4,0.0
+2021-03-04,2021,3,Australia,Energy Company,Elecnor,Country Analysis,3,3,36.04
+2021-03-04,2021,3,Australia,Energy Company,Elecnor,Project Analysis,0,1,5.055
+2021-03-04,2021,3,Australia,Energy Company,Elecnor,Solar PV Technical Analysis,2,4,683.26
+2021-03-04,2021,3,Australia,Energy Company,Elecnor,Watts Generating - Australia,4,3,9.39
+2021-03-04,2021,3,Australia,Other,APA Group,Storage Technical Analysis,2,1,3.489
+2021-03-04,2021,3,Australia,Other,JA Solar,Project Analysis,1,2,5.454
+2021-03-04,2021,3,Australia,Renewable Energy Company,FRV,Project Analysis,1,2,11.214
+2021-03-04,2021,3,Australia,Renewable Energy Company,FRV,Watts Generating - Australia,1,1,4.925
+2021-03-04,2021,3,Australia,Renewable Energy Company,Longi Solar,Project Analysis,8,3,60.389
+2021-03-04,2021,3,Australia,Renewable Energy Company,Transgrid,Watts Generating - Australia,1,2,5.352
+2021-03-04,2021,3,Australia,Renewable Energy Company,Trina Solar,Solar PV Technical Analysis,1,1,5.621
+2021-03-04,2021,3,Canada,Other,Tudor Pickering Holt,Country Analysis,0,6,9.09
+2021-03-04,2021,3,Canada,Other,Tudor Pickering Holt,Wind Technical Analysis,0,1,3.998
+2021-03-04,2021,3,Norway,Energy Company,Equinor,Renewables – E&P Companies,2,1,3.746
+2021-03-04,2021,3,United Kingdom,Banking,Goldman Sachs,Project Analysis,1,1,6.353
+2021-03-04,2021,3,United Kingdom,Banking,Goldman Sachs,Renewables – E&P Companies,2,1,5.252
+2021-03-04,2021,3,United Kingdom,Banking,Simmons Energy,Wind Technical Analysis,1,2,9.523
+2021-03-04,2021,3,United Kingdom,Oilfield Service Company,Worley,Country Analysis,5,4,13.822
+2021-03-04,2021,3,United Kingdom,Oilfield Service Company,Worley,Project Analysis,7,2,6.062
+2021-03-04,2021,3,United States,Banking,Stifel Financial,Solar PV Technical Analysis,1,1,3.803
+2021-03-04,2021,3,United States,Energy Company,Chevron,Mergers & Acquisitions,1,2,14.571
+2021-03-04,2021,3,United States,Energy Company,Chevron,Project Analysis,1,1,16.688
+2021-03-04,2021,3,United States,Energy Company,Chevron,Renewables – E&P Companies,2,1,5.779
+2021-03-04,2021,3,United States,Energy Company,Chevron,Wind Technical Analysis,0,1,5.162
+2021-03-04,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Solar PV Technical Analysis,0,1,87.763
+2021-03-04,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Storage Technical Analysis,0,1,3.754
+2021-03-04,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Wind Technical Analysis,0,1,4.802
+2021-03-05,2021,3,Australia,Energy Company,Elecnor,Mergers & Acquisitions,2,1,2.517
+2021-03-05,2021,3,Australia,Renewable Energy Company,FRV,Watts Generating - Australia,1,1,46.281
+2021-03-05,2021,3,Australia,Renewable Energy Company,Lightsource BP,Project Analysis,0,1,4.944
+2021-03-05,2021,3,Australia,Renewable Energy Company,Lightsource BP,Watts Generating - Australia,1,1,3.887
+2021-03-05,2021,3,Australia,Renewable Energy Company,Longi Solar,Project Analysis,1,3,12.083
+2021-03-05,2021,3,Norway,Energy Company,Equinor,Country Analysis,2,3,18.357
+2021-03-05,2021,3,Norway,Energy Company,Equinor,Storage Technical Analysis,2,1,3.791
+2021-03-05,2021,3,United States,Renewable Energy Company,Terabase,Solar PV Technical Analysis,0,1,3.583
+2021-03-06,2021,3,Australia,Renewable Energy Company,Lightsource BP,Project Analysis,9,4,70.407
+2021-03-06,2021,3,Australia,Renewable Energy Company,Lightsource BP,Watts Generating - Australia,1,2,6.797
+2021-03-06,2021,3,Australia,Renewable Energy Company,Lightsource BP,Wind Technical Analysis,2,2,5.705
+2021-03-06,2021,3,Germany,Oilfield Service Company,National Oilwell Varco,Project Analysis,1,1,4.686
+2021-03-07,2021,3,Australia,Consulting,KPMG,Country Analysis,0,1,45.851
+2021-03-07,2021,3,Australia,Renewable Energy Company,Lightsource BP,Country Analysis,0,1,32.762
+2021-03-07,2021,3,Australia,Renewable Energy Company,Lightsource BP,Project Analysis,4,3,34.151
+2021-03-07,2021,3,Australia,Renewable Energy Company,Lightsource BP,Watts Generating - Australia,2,1,5.551
+2021-03-07,2021,3,Germany,Oilfield Service Company,National Oilwell Varco,Country Analysis,3,1,3.041
+2021-03-08,2021,3,Australia,Energy Company,Elecnor,Country Analysis,1,1,3.671
+2021-03-08,2021,3,Australia,Energy Company,Elecnor,Project Analysis,1,3,33.924
+2021-03-08,2021,3,Australia,Energy Company,Elecnor,Storage Technical Analysis,0,1,1.748
+2021-03-08,2021,3,Australia,Other,NexTracker,Project Analysis,0,1,13.044
+2021-03-08,2021,3,Australia,Renewable Energy Company,FRV,Country Analysis,1,1,19.262
+2021-03-08,2021,3,Australia,Renewable Energy Company,Risen Energy,Solar PV Technical Analysis,0,1,10.181
+2021-03-08,2021,3,Australia,Renewable Energy Company,Venn Energy,Mergers & Acquisitions,3,2,24.82
+2021-03-08,2021,3,Australia,Renewable Energy Company,Venn Energy,Project Analysis,7,3,22.512
+2021-03-08,2021,3,Australia,Renewable Energy Company,Venn Energy,Solar PV Technical Analysis,3,3,6.399
+2021-03-08,2021,3,Australia,Renewable Energy Company,Venn Energy,Storage Technical Analysis,3,2,5.752
+2021-03-08,2021,3,Australia,Renewable Energy Company,Venn Energy,Watts Generating - Australia,8,2,8.504
+2021-03-08,2021,3,Norway,Energy Company,Equinor,Country Analysis,2,2,12.119
+2021-03-08,2021,3,Norway,Energy Company,Equinor,Mergers & Acquisitions,3,2,3.369
+2021-03-08,2021,3,Norway,Energy Company,Equinor,Project Analysis,0,1,7.901
+2021-03-08,2021,3,Norway,Energy Company,Equinor,Renewables – E&P Companies,5,3,13.124
+2021-03-08,2021,3,Norway,Energy Company,Equinor,Storage Technical Analysis,1,1,5.018
+2021-03-08,2021,3,Norway,Energy Company,Equinor,Wind Technical Analysis,1,1,5.732
+2021-03-08,2021,3,Norway,Oilfield Service Company,Autronica,Storage Technical Analysis,1,1,15.384
+2021-03-08,2021,3,Spain,Government bodies & Organizations,DG Energy,Wind Technical Analysis,3,1,4.174
+2021-03-08,2021,3,United Kingdom,Banking,Goldman Sachs,Project Analysis,0,1,12.605
+2021-03-08,2021,3,United Kingdom,Banking,Simmons Energy,Country Analysis,2,2,9.357
+2021-03-08,2021,3,United Kingdom,Banking,Simmons Energy,Project Analysis,1,1,5.092
+2021-03-08,2021,3,United Kingdom,Other,ABB,Project Analysis,0,1,4.253
+2021-03-08,2021,3,United Kingdom,Other,Elgin Energy,Mergers & Acquisitions,2,1,8.731
+2021-03-08,2021,3,United States,Banking,Stifel Financial,Country Analysis,4,5,37.663
+2021-03-08,2021,3,United States,Banking,Stifel Financial,Wind Technical Analysis,3,7,19.419
+2021-03-08,2021,3,United States,Energy Company,Chevron,Project Analysis,1,1,45.736
+2021-03-08,2021,3,United States,Oilfield Service Company,Schlumberger,Renewables – E&P Companies,1,1,3.79
+2021-03-08,2021,3,United States,Oilfield Service Company,Schlumberger,Wind Technical Analysis,1,1,3.926
+2021-03-08,2021,3,Vietnam,Government bodies & Organizations,Deutsche Gesellschaft fur Internationale Zusammenarbeit (GIZ),Country Analysis,4,1,6.482
+2021-03-08,2021,3,Vietnam,Government bodies & Organizations,Deutsche Gesellschaft fur Internationale Zusammenarbeit (GIZ),Project Analysis,6,1,7.094
+2021-03-09,2021,3,Australia,Consulting,KPMG,Project Analysis,2,1,21.102
+2021-03-09,2021,3,Australia,Renewable Energy Company,CWP Renewables,Country Analysis,0,1,4.216
+2021-03-09,2021,3,Australia,Renewable Energy Company,CWP Renewables,Project Analysis,2,2,4.434
+2021-03-09,2021,3,Australia,Renewable Energy Company,CWP Renewables,Renewables – E&P Companies,0,1,3.974
+2021-03-09,2021,3,Australia,Renewable Energy Company,CWP Renewables,Watts Generating - Australia,4,5,7.505
+2021-03-09,2021,3,Australia,Renewable Energy Company,Lightsource BP,Project Analysis,3,1,7.81
+2021-03-09,2021,3,Australia,Renewable Energy Company,Longi Solar,Country Analysis,0,1,14.198
+2021-03-09,2021,3,Australia,Renewable Energy Company,Longi Solar,Project Analysis,1,2,20.474
+2021-03-09,2021,3,Australia,Renewable Energy Company,Longi Solar,Solar PV Technical Analysis,0,1,4.061
+2021-03-09,2021,3,Australia,Renewable Energy Company,PARF,Watts Generating - Australia,3,4,5.551
+2021-03-09,2021,3,India,Oilfield Service Company,Larsen & Toubro,Renewables – E&P Companies,0,1,49.453
+2021-03-09,2021,3,Norway,Consulting,PWC,Storage Technical Analysis,1,1,2.472
+2021-03-09,2021,3,Norway,Energy Company,Equinor,Country Analysis,5,1,5.702
+2021-03-09,2021,3,Norway,Oilfield Service Company,Autronica,Project Analysis,1,1,74.401
+2021-03-09,2021,3,Norway,Oilfield Service Company,Autronica,Storage Technical Analysis,8,1,47.932
+2021-03-09,2021,3,Russia,Energy Company,Gazprom,Project Analysis,0,1,11.598
+2021-03-09,2021,3,United Kingdom,Banking,Simmons Energy,Mergers & Acquisitions,1,1,2.657
+2021-03-09,2021,3,United Kingdom,Banking,Simmons Energy,Project Analysis,7,6,26.68
+2021-03-09,2021,3,United Kingdom,Banking,Simmons Energy,Renewables – E&P Companies,1,1,4.083
+2021-03-09,2021,3,United Kingdom,Oilfield Service Company,Proserv,Wind Technical Analysis,0,1,4.782
+2021-03-09,2021,3,United Kingdom,Other,Elgin Energy,Mergers & Acquisitions,1,1,14.819
+2021-03-09,2021,3,United States,Banking,Stifel Financial,Country Analysis,1,4,20.44
+2021-03-09,2021,3,United States,Banking,Stifel Financial,Project Analysis,1,2,14.466
+2021-03-09,2021,3,United States,Banking,Stifel Financial,Wind Technical Analysis,10,9,51.539
+2021-03-09,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Country Analysis,4,4,28.242
+2021-03-09,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Mergers & Acquisitions,0,2,7.831
+2021-03-09,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Project Analysis,3,8,37.557
+2021-03-09,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Renewables – E&P Companies,0,2,19.75
+2021-03-09,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Solar PV Technical Analysis,1,3,13.823
+2021-03-09,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Storage Technical Analysis,0,1,3.005
+2021-03-09,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Wind Technical Analysis,4,2,10.871
+2021-03-10,2021,3,Australia,Banking,National Australia Bank,Mergers & Acquisitions,7,4,13.498
+2021-03-10,2021,3,Australia,Banking,National Australia Bank,Project Analysis,1,2,16.198
+2021-03-10,2021,3,Australia,Banking,National Australia Bank,Solar PV Technical Analysis,1,1,9.68
+2021-03-10,2021,3,Australia,Energy Company,Elecnor,Project Analysis,2,4,6.696
+2021-03-10,2021,3,Australia,Energy Company,Elecnor,Renewables – E&P Companies,1,1,4.26
+2021-03-10,2021,3,Australia,Energy Company,Elecnor,Watts Generating - Australia,5,3,1.644
+2021-03-10,2021,3,Australia,Energy Company,Woodside,Country Analysis,0,1,20.6
+2021-03-10,2021,3,Australia,Other,ABB,Project Analysis,3,1,27.831
+2021-03-10,2021,3,Australia,Other,APA Group,Project Analysis,0,1,17.073
+2021-03-10,2021,3,Australia,Other,APA Group,Storage Technical Analysis,1,1,4.663
+2021-03-10,2021,3,China,Banking,Goldman Sachs,Country Analysis,1,1,6.972
+2021-03-10,2021,3,Hungary,Energy Company,ExxonMobil,Project Analysis,0,2,29.357
+2021-03-10,2021,3,Hungary,Energy Company,ExxonMobil,Renewables – E&P Companies,7,3,19.324
+2021-03-10,2021,3,Hungary,Energy Company,ExxonMobil,Storage Technical Analysis,0,1,2.619
+2021-03-10,2021,3,India,Oilfield Service Company,Oceaneering,Project Analysis,0,1,4.117
+2021-03-10,2021,3,India,Oilfield Service Company,Oceaneering,Storage Technical Analysis,0,1,4.35
+2021-03-10,2021,3,India,Oilfield Service Company,Oceaneering,Wind Technical Analysis,0,1,6.211
+2021-03-10,2021,3,Japan,Oilfield Service Company,Marubeni Itochu,Project Analysis,0,2,11.383
+2021-03-10,2021,3,Netherlands,Oilfield Service Company,National Oilwell Varco,Country Analysis,5,2,7.992
+2021-03-10,2021,3,Netherlands,Oilfield Service Company,National Oilwell Varco,Renewables – E&P Companies,0,1,3.874
+2021-03-10,2021,3,Netherlands,Oilfield Service Company,National Oilwell Varco,Wind Technical Analysis,9,6,13.415
+2021-03-10,2021,3,Norway,Energy Company,Equinor,Country Analysis,4,3,19.135
+2021-03-10,2021,3,Norway,Energy Company,Equinor,Project Analysis,3,1,5.261
+2021-03-10,2021,3,Norway,Energy Company,Equinor,Renewables – E&P Companies,0,1,4.332
+2021-03-10,2021,3,Norway,Energy Company,Equinor,Wind Technical Analysis,0,1,5.373
+2021-03-10,2021,3,Norway,Oilfield Service Company,Autronica,Storage Technical Analysis,3,1,6.842
+2021-03-10,2021,3,Norway,Oilfield Service Company,Autronica,Wind Technical Analysis,1,2,15.022
+2021-03-10,2021,3,Russia,Energy Company,Gazprom,Project Analysis,0,1,11.722
+2021-03-10,2021,3,Singapore,Banking,HSBC,Country Analysis,0,1,24.732
+2021-03-10,2021,3,Singapore,Other,NexTracker,Country Analysis,0,1,124.135
+2021-03-10,2021,3,Singapore,Other,NexTracker,Project Analysis,0,1,28.691
+2021-03-10,2021,3,Singapore,Other,NexTracker,Renewables – E&P Companies,0,1,32.733
+2021-03-10,2021,3,Singapore,Other,NexTracker,Solar PV Technical Analysis,4,1,43.44
+2021-03-10,2021,3,Spain,Other,Iberdrola,Project Analysis,2,2,15.614
+2021-03-10,2021,3,Spain,Other,Iberdrola,Watts Generating - Australia,1,1,3.223
+2021-03-10,2021,3,United States,Energy Company,Chevron,Project Analysis,7,5,80.46
+2021-03-10,2021,3,United States,Energy Company,Occidental Petroleum,Storage Technical Analysis,0,1,3.348
+2021-03-10,2021,3,United States,Industrial,Sumitomo Corporation,Wind Technical Analysis,2,1,11.773
+2021-03-11,2021,3,Australia,Energy Company,Eneos,Project Analysis,1,3,42.621
+2021-03-11,2021,3,Australia,Energy Company,Eneos,Watts Generating - Australia,1,1,8.682
+2021-03-11,2021,3,Australia,Other,APA Group,Project Analysis,0,1,8.553
+2021-03-11,2021,3,Australia,Other,Iberdrola,Country Analysis,0,1,12.054
+2021-03-11,2021,3,Australia,Other,Iberdrola,Project Analysis,0,1,16.197
+2021-03-11,2021,3,Australia,Other,Windlab,Solar PV Technical Analysis,2,2,4.374
+2021-03-11,2021,3,Australia,Renewable Energy Company,Array Technologies,Project Analysis,11,3,12.467
+2021-03-11,2021,3,Australia,Renewable Energy Company,Array Technologies,Renewables – E&P Companies,0,1,5.755
+2021-03-11,2021,3,Australia,Renewable Energy Company,Array Technologies,Solar PV Technical Analysis,1,2,17.608
+2021-03-11,2021,3,Australia,Renewable Energy Company,Lightsource BP,Project Analysis,9,3,15.074
+2021-03-11,2021,3,Australia,Renewable Energy Company,Lightsource BP,Watts Generating - Australia,3,2,19.821
+2021-03-11,2021,3,Australia,Renewable Energy Company,PARF,Watts Generating - Australia,0,1,3.167
+2021-03-11,2021,3,Australia,Trading,Trafigura,Project Analysis,3,3,4.207
+2021-03-11,2021,3,Canada,Government bodies & Organizations,Alberta Government,Project Analysis,0,1,6.075
+2021-03-11,2021,3,Hungary,Energy Company,ExxonMobil,Project Analysis,1,1,4.841
+2021-03-11,2021,3,Hungary,Energy Company,ExxonMobil,Renewables – E&P Companies,18,3,26.873
+2021-03-11,2021,3,Norway,Oilfield Service Company,National Oilwell Varco,Country Analysis,1,3,7.608
+2021-03-11,2021,3,Norway,Oilfield Service Company,National Oilwell Varco,Mergers & Acquisitions,2,1,2.776
+2021-03-11,2021,3,Norway,Oilfield Service Company,National Oilwell Varco,Renewables  - Economic Analysis,0,2,0.0
+2021-03-11,2021,3,Singapore,Other,NexTracker,Country Analysis,2,1,5.5
+2021-03-11,2021,3,Singapore,Other,NexTracker,Solar PV Technical Analysis,4,2,5.4
+2021-03-11,2021,3,South Korea,Other,DNV,Wind Technical Analysis,2,1,5.18
+2021-03-11,2021,3,Spain,Other,Iberdrola,Country Analysis,1,1,5.96
+2021-03-11,2021,3,Spain,Other,Iberdrola,Project Analysis,5,2,12.085
+2021-03-11,2021,3,United Kingdom,Banking,Simmons Energy,Storage Technical Analysis,2,1,15.86
+2021-03-11,2021,3,United Kingdom,Other,Elgin Energy,Project Analysis,0,3,89.85
+2021-03-11,2021,3,United Kingdom,Other,Elgin Energy,Watts Generating - Australia,7,2,45.678
+2021-03-11,2021,3,United States,Energy Company,Chevron,Mergers & Acquisitions,1,1,3.61
+2021-03-11,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Country Analysis,2,1,9.319
+2021-03-11,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Renewables  - Economic Analysis,0,2,0.0
+2021-03-11,2021,3,United States,Oilfield Service Company,Schlumberger,Country Analysis,0,1,4.531
+2021-03-11,2021,3,United States,Oilfield Service Company,Schlumberger,Project Analysis,5,1,4.637
+2021-03-11,2021,3,United States,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,0,3,0.0
+2021-03-12,2021,3,Australia,Energy Company,CS Energy,Country Analysis,0,2,7.339
+2021-03-12,2021,3,Australia,Energy Company,Elecnor,Country Analysis,6,4,18.116
+2021-03-12,2021,3,Australia,Energy Company,Elecnor,Renewables – E&P Companies,1,2,12.239
+2021-03-12,2021,3,Australia,Energy Company,Elecnor,Watts Generating - Australia,7,4,14.453
+2021-03-12,2021,3,Australia,Energy Company,Elecnor,Wind Technical Analysis,2,4,12.164
+2021-03-12,2021,3,Australia,Energy Company,Eneos,Project Analysis,22,5,71.462
+2021-03-12,2021,3,Australia,Other,APA Group,Project Analysis,0,1,9.858
+2021-03-12,2021,3,Australia,Other,APA Group,Watts Generating - Australia,3,2,5.816
+2021-03-12,2021,3,Australia,Other,SunPower,Country Analysis,6,2,3.602
+2021-03-12,2021,3,Australia,Other,SunPower,Mergers & Acquisitions,0,1,5.624
+2021-03-12,2021,3,Australia,Other,SunPower,Project Analysis,5,7,10.217
+2021-03-12,2021,3,Australia,Other,SunPower,Wind Technical Analysis,3,2,5.411
+2021-03-12,2021,3,Australia,Other,Windlab,Project Analysis,0,1,6.194
+2021-03-12,2021,3,Australia,Renewable Energy Company,CleanCo,Renewables  - Economic Analysis,0,6,492.464
+2021-03-12,2021,3,Australia,Renewable Energy Company,Pacific Hydro,Country Analysis,1,1,3.315
+2021-03-12,2021,3,Australia,Renewable Energy Company,Pacific Hydro,Renewables  - Economic Analysis,0,2,0.0
+2021-03-12,2021,3,Australia,Renewable Energy Company,Pacific Hydro,Solar PV Technical Analysis,0,1,4.372
+2021-03-12,2021,3,Australia,Renewable Energy Company,PARF,Renewables  - Economic Analysis,0,4,6.8
+2021-03-12,2021,3,Australia,Renewable Energy Company,PARF,Storage Technical Analysis,1,1,4.489
+2021-03-12,2021,3,Canada,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,0,1,0.0
+2021-03-12,2021,3,Denmark,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,0,1,0.0
+2021-03-12,2021,3,France,Oilfield Service Company,Schlumberger,Storage Technical Analysis,0,1,2.465
+2021-03-12,2021,3,Germany,Oilfield Service Company,National Oilwell Varco,Country Analysis,14,4,3.805
+2021-03-12,2021,3,Germany,Oilfield Service Company,National Oilwell Varco,Project Analysis,2,3,18.141
+2021-03-12,2021,3,Germany,Oilfield Service Company,National Oilwell Varco,Renewables  - Economic Analysis,0,2,16.422
+2021-03-12,2021,3,Germany,Other,DNV,Mergers & Acquisitions,0,1,3.132
+2021-03-12,2021,3,Germany,Other,DNV,Renewables  - Economic Analysis,0,1,0.0
+2021-03-12,2021,3,Hungary,Energy Company,ExxonMobil,Renewables – E&P Companies,2,1,8.667
+2021-03-12,2021,3,India,Banking,HSBC,Renewables  - Economic Analysis,0,6,0.0
+2021-03-12,2021,3,India,Other,NexTracker,Country Analysis,3,1,5.121
+2021-03-12,2021,3,India,Other,NexTracker,Project Analysis,9,2,9.421
+2021-03-12,2021,3,Norway,Energy Company,Aker Energy,Project Analysis,1,1,6.873
+2021-03-12,2021,3,Norway,Energy Company,Equinor,Mergers & Acquisitions,0,1,2.431
+2021-03-12,2021,3,Norway,Energy Company,Equinor,Project Analysis,0,1,3.041
+2021-03-12,2021,3,Norway,Energy Company,Equinor,Wind Technical Analysis,0,1,8.087
+2021-03-12,2021,3,Norway,Oilfield Service Company,National Oilwell Varco,Wind Technical Analysis,0,1,6.892
+2021-03-12,2021,3,Norway,Oilfield Service Company,Schlumberger,Country Analysis,0,1,2.97
+2021-03-12,2021,3,Norway,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,0,2,0.0
+2021-03-12,2021,3,Norway,Other,NBIM,Renewables  - Economic Analysis,0,1,0.0
+2021-03-12,2021,3,Norway,Other,NBIM,Renewables – E&P Companies,4,1,10.984
+2021-03-12,2021,3,Singapore,Banking,HSBC,Renewables  - Economic Analysis,0,4,0.0
+2021-03-12,2021,3,Singapore,Banking,HSBC,Wind Technical Analysis,0,1,8.74
+2021-03-12,2021,3,Singapore,Energy Company,Equinor,Country Analysis,0,1,4.144
+2021-03-12,2021,3,Singapore,Energy Company,Equinor,Renewables  - Economic Analysis,0,2,0.0
+2021-03-12,2021,3,Singapore,Energy Company,Equinor,Renewables – E&P Companies,0,1,4.445
+2021-03-12,2021,3,Singapore,Energy Company,Equinor,Solar PV Technical Analysis,0,1,3.406
+2021-03-12,2021,3,Singapore,Energy Company,Equinor,Storage Technical Analysis,0,1,2.778
+2021-03-12,2021,3,Singapore,Energy Company,Equinor,Wind Technical Analysis,0,1,3.365
+2021-03-12,2021,3,Spain,Other,Iberdrola,Renewables  - Economic Analysis,0,7,5.663
+2021-03-12,2021,3,Spain,Other,Soltec,Renewables  - Economic Analysis,0,3,0.0
+2021-03-12,2021,3,Trinidad and Tobago,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,0,1,0.0
+2021-03-12,2021,3,United Kingdom,Banking,Goldman Sachs,Country Analysis,3,6,16.523
+2021-03-12,2021,3,United Kingdom,Banking,Goldman Sachs,Renewables  - Economic Analysis,0,1,0.0
+2021-03-12,2021,3,United Kingdom,Banking,Simmons Energy,Country Analysis,2,1,8.264
+2021-03-12,2021,3,United Kingdom,Banking,Simmons Energy,Renewables  - Economic Analysis,0,3,0.0
+2021-03-12,2021,3,United Kingdom,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,0,7,15.781
+2021-03-12,2021,3,United Kingdom,Other,Elgin Energy,Mergers & Acquisitions,3,2,38.569
+2021-03-12,2021,3,United Kingdom,Other,Elgin Energy,Project Analysis,3,2,61.607
+2021-03-12,2021,3,United Kingdom,Other,Elgin Energy,Storage Technical Analysis,2,1,13.335
+2021-03-12,2021,3,United Kingdom,Other,Elgin Energy,Watts Generating - Australia,1,1,21.421
+2021-03-12,2021,3,United Kingdom,Other,FTI Consulting,Renewables  - Economic Analysis,0,2,0.0
+2021-03-12,2021,3,United Kingdom,Other,FTI Consulting,Renewables – E&P Companies,1,1,5.031
+2021-03-12,2021,3,United Kingdom,Other,FTI Consulting,Wind Technical Analysis,0,1,3.915
+2021-03-12,2021,3,United Kingdom,Other,Tudor Pickering Holt,Project Analysis,0,1,3.474
+2021-03-12,2021,3,United Kingdom,Other,Tudor Pickering Holt,Renewables  - Economic Analysis,0,1,0.0
+2021-03-12,2021,3,United States,Banking,SMBC Nikko Securities,Renewables  - Economic Analysis,0,1,0.0
+2021-03-12,2021,3,United States,Energy Company,Chevron,Renewables  - Economic Analysis,0,6,0.0
+2021-03-12,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Country Analysis,3,2,4.487
+2021-03-12,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Renewables  - Economic Analysis,0,9,471.689
+2021-03-12,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Renewables – E&P Companies,0,1,3.985
+2021-03-12,2021,3,United States,Oilfield Service Company,Schlumberger,Country Analysis,1,2,24.861
+2021-03-12,2021,3,United States,Oilfield Service Company,Schlumberger,Project Analysis,0,2,8.35
+2021-03-12,2021,3,United States,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,0,21,48.075
+2021-03-12,2021,3,United States,Oilfield Service Company,Schlumberger,Wind Technical Analysis,0,1,3.623
+2021-03-12,2021,3,United States,Other,DNV,Project Analysis,2,4,6.167
+2021-03-12,2021,3,United States,Other,DNV,Renewables  - Economic Analysis,0,1,0.0
+2021-03-12,2021,3,United States,Other,Helix Energy Solutions Group,Renewables  - Economic Analysis,0,4,0.0
 2021-03-13,2021,3,Australia,Energy Company,CS Energy,Renewables  - Economic Analysis,0,3,0.0
 2021-03-13,2021,3,Australia,Other,APA Group,Project Analysis,0,1,20.575
 2021-03-13,2021,3,Australia,Other,APA Group,Watts Generating - Australia,4,2,6.245
@@ -753,179 +753,179 @@ date,year,month,country,industry,company,dashname,views,requests,rendertime
 2021-03-31,2021,3,United Kingdom,Banking,Simmons Energy,Renewables  - Economic Analysis,6,4,14.081
 2021-03-31,2021,3,United Kingdom,Oilfield Service Company,Schlumberger,Wind Technical Analysis,2,1,3.399
 2021-03-31,2021,3,United States,Oilfield Service Company,National Oilwell Varco,Renewables  - Economic Analysis,8,2,6.792
-2021-01-04,2021,4,Australia,Energy Company,CS Energy,Project Analysis,3,1,7.77
-2021-01-04,2021,4,Australia,Energy Company,Eneos,Project Analysis,22,7,415.26
-2021-01-04,2021,4,Australia,Energy Company,Eneos,Watts Generating - Australia,8,7,25.595
-2021-01-04,2021,4,Australia,Renewable Energy Company,Transgrid,Watts Generating - Australia,1,1,3.306
-2021-01-04,2021,4,Canada,Other,DNV,Project Analysis,1,1,10.349
-2021-01-04,2021,4,Netherlands,Oilfield Service Company,National Oilwell Varco,Country Analysis,15,2,8.192
-2021-01-04,2021,4,Netherlands,Oilfield Service Company,National Oilwell Varco,Project Analysis,4,1,4.246
-2021-01-04,2021,4,Netherlands,Oilfield Service Company,National Oilwell Varco,Renewables  - Economic Analysis,5,1,3.883
-2021-01-04,2021,4,Netherlands,Oilfield Service Company,National Oilwell Varco,Renewables – E&P Companies,30,1,3.365
-2021-01-04,2021,4,UAE,Oilfield Service Company,National Oilwell Varco,Country Analysis,2,1,4.199
-2021-01-04,2021,4,United Kingdom,Banking,Simmons Energy,Wind Technical Analysis,0,1,3.177
-2021-01-04,2021,4,United States,Consulting,Bain & Company,Project Analysis,2,1,5.281
-2021-01-04,2021,4,United States,Oilfield Service Company,Helmerich & Payne,Project Analysis,0,1,4.295
-2021-02-04,2021,4,Canada,Other,DNV,Country Analysis,0,3,10.949
-2021-02-04,2021,4,Canada,Other,DNV,Project Analysis,5,4,9.781
-2021-02-04,2021,4,China,Banking,Goldman Sachs,Country Analysis,2,3,13.8
-2021-02-04,2021,4,Japan,Renewable Energy Company,WPD Offshore,Country Analysis,3,1,13.245
-2021-02-04,2021,4,Japan,Renewable Energy Company,WPD Offshore,Mergers & Acquisitions,0,1,111.933
-2021-02-04,2021,4,Japan,Renewable Energy Company,WPD Offshore,Project Analysis,1,2,12.262
-2021-02-04,2021,4,Japan,Renewable Energy Company,WPD Offshore,Renewables  - Economic Analysis,1,2,9.776
-2021-02-04,2021,4,Japan,Renewable Energy Company,WPD Offshore,Wind Technical Analysis,1,2,63.764
-2021-02-04,2021,4,Norway,Oilfield Service Company,Schlumberger,Renewables – E&P Companies,5,1,3.586
-2021-02-04,2021,4,Russia,Oilfield Service Company,Baker Hughes,Project Analysis,1,1,4.416
+2021-04-01,2021,4,Australia,Energy Company,CS Energy,Project Analysis,3,1,7.77
+2021-04-01,2021,4,Australia,Energy Company,Eneos,Project Analysis,22,7,415.26
+2021-04-01,2021,4,Australia,Energy Company,Eneos,Watts Generating - Australia,8,7,25.595
+2021-04-01,2021,4,Australia,Renewable Energy Company,Transgrid,Watts Generating - Australia,1,1,3.306
+2021-04-01,2021,4,Canada,Other,DNV,Project Analysis,1,1,10.349
+2021-04-01,2021,4,Netherlands,Oilfield Service Company,National Oilwell Varco,Country Analysis,15,2,8.192
+2021-04-01,2021,4,Netherlands,Oilfield Service Company,National Oilwell Varco,Project Analysis,4,1,4.246
+2021-04-01,2021,4,Netherlands,Oilfield Service Company,National Oilwell Varco,Renewables  - Economic Analysis,5,1,3.883
+2021-04-01,2021,4,Netherlands,Oilfield Service Company,National Oilwell Varco,Renewables – E&P Companies,30,1,3.365
+2021-04-01,2021,4,UAE,Oilfield Service Company,National Oilwell Varco,Country Analysis,2,1,4.199
+2021-04-01,2021,4,United Kingdom,Banking,Simmons Energy,Wind Technical Analysis,0,1,3.177
+2021-04-01,2021,4,United States,Consulting,Bain & Company,Project Analysis,2,1,5.281
+2021-04-01,2021,4,United States,Oilfield Service Company,Helmerich & Payne,Project Analysis,0,1,4.295
+2021-04-02,2021,4,Canada,Other,DNV,Country Analysis,0,3,10.949
+2021-04-02,2021,4,Canada,Other,DNV,Project Analysis,5,4,9.781
+2021-04-02,2021,4,China,Banking,Goldman Sachs,Country Analysis,2,3,13.8
+2021-04-02,2021,4,Japan,Renewable Energy Company,WPD Offshore,Country Analysis,3,1,13.245
+2021-04-02,2021,4,Japan,Renewable Energy Company,WPD Offshore,Mergers & Acquisitions,0,1,111.933
+2021-04-02,2021,4,Japan,Renewable Energy Company,WPD Offshore,Project Analysis,1,2,12.262
+2021-04-02,2021,4,Japan,Renewable Energy Company,WPD Offshore,Renewables  - Economic Analysis,1,2,9.776
+2021-04-02,2021,4,Japan,Renewable Energy Company,WPD Offshore,Wind Technical Analysis,1,2,63.764
+2021-04-02,2021,4,Norway,Oilfield Service Company,Schlumberger,Renewables – E&P Companies,5,1,3.586
+2021-04-02,2021,4,Russia,Oilfield Service Company,Baker Hughes,Project Analysis,1,1,4.416
 2021-04-04,2021,4,United Kingdom,Oilfield Service Company,Schlumberger,Project Analysis,1,3,16.377
 2021-04-04,2021,4,United Kingdom,Oilfield Service Company,Schlumberger,Storage Technical Analysis,1,1,81.956
-2021-05-04,2021,4,Australia,Energy Company,Eneos,Project Analysis,0,1,19.321
-2021-05-04,2021,4,Australia,Other,Phillip Riley,Project Analysis,0,2,19.577
-2021-05-04,2021,4,Australia,Renewable Energy Company,FRV,Watts Generating - Australia,1,1,4.702
-2021-05-04,2021,4,France,Oilfield Service Company,Schlumberger,Mergers & Acquisitions,2,1,32.405
-2021-05-04,2021,4,Singapore,Trading,Trafigura,Project Analysis,4,4,7.622
-2021-05-04,2021,4,Singapore,Trading,Trafigura,Watts Generating - Australia,5,1,7.828
-2021-05-04,2021,4,United Kingdom,Banking,Simmons Energy,Storage Technical Analysis,5,1,2.953
-2021-05-04,2021,4,United States,Energy Company,Chevron,Country Analysis,1,1,6.145
-2021-05-04,2021,4,United States,Energy Company,Chevron,Mergers & Acquisitions,2,1,3.234
-2021-05-04,2021,4,Vietnam,Renewable Energy Company,WPD Offshore,Country Analysis,3,4,29.659
-2021-05-04,2021,4,Vietnam,Renewable Energy Company,WPD Offshore,Project Analysis,0,3,4.635
-2021-06-04,2021,4,Afghanistan,Banking,Test,Project Analysis,0,1,4.505
-2021-06-04,2021,4,Australia,Energy Company,Eneos,Project Analysis,1,4,550.84
-2021-06-04,2021,4,Australia,Government bodies & Organizations,Australian Bureau of Statistics,Project Analysis,1,1,20.438
-2021-06-04,2021,4,Australia,Other,Phillip Riley,Project Analysis,2,3,19.431
-2021-06-04,2021,4,Australia,Other,Tilt Renewables,Project Analysis,1,1,16.512
-2021-06-04,2021,4,Australia,Renewable Energy Company,FRV,Watts Generating - Australia,1,1,3.935
-2021-06-04,2021,4,Australia,Trading,Trafigura,Project Analysis,1,1,2.871
-2021-06-04,2021,4,Austria,Other,Voestalpine,Wind Technical Analysis,3,2,9.142
-2021-06-04,2021,4,France,Oilfield Service Company,Bourbon,Project Analysis,0,1,4.017
-2021-06-04,2021,4,Greece,Energy Company,Hellenic Petroleum,Renewables  - Economic Analysis,0,1,3.642
-2021-06-04,2021,4,Japan,Energy Company,Idemitsu,Country Analysis,0,2,7.14
-2021-06-04,2021,4,Japan,Energy Company,Idemitsu,Project Analysis,3,4,19.597
-2021-06-04,2021,4,Japan,Energy Company,Idemitsu,Renewables  - Economic Analysis,2,3,8.274
-2021-06-04,2021,4,Netherlands,Oilfield Service Company,Schlumberger,Storage Technical Analysis,0,1,7.907
-2021-06-04,2021,4,Norway,Oilfield Service Company,Schlumberger,Project Analysis,5,1,3.753
-2021-06-04,2021,4,Norway,Oilfield Service Company,Schlumberger,Renewables – E&P Companies,1,2,6.958
-2021-06-04,2021,4,Singapore,Trading,Trafigura,Project Analysis,0,1,3.527
-2021-06-04,2021,4,Spain,Other,Iberdrola,Renewables  - Economic Analysis,0,2,10.975
-2021-06-04,2021,4,UAE,Oilfield Service Company,National Oilwell Varco,Mergers & Acquisitions,2,1,3.277
-2021-06-04,2021,4,UAE,Oilfield Service Company,National Oilwell Varco,Renewables  - Economic Analysis,4,2,4.042
-2021-06-04,2021,4,UAE,Oilfield Service Company,National Oilwell Varco,Storage Technical Analysis,3,1,2.997
-2021-06-04,2021,4,United Kingdom,Banking,HSBC,Country Analysis,2,1,3.861
-2021-06-04,2021,4,United Kingdom,Banking,HSBC,Renewables  - Economic Analysis,2,2,3.939
-2021-06-04,2021,4,United Kingdom,Banking,HSBC,Wind Technical Analysis,0,1,4.362
-2021-06-04,2021,4,United Kingdom,Consulting,McKinsey & Company,Renewables – E&P Companies,1,1,29.038
-2021-06-04,2021,4,United Kingdom,Energy Company,Trelleborg Offshore,Solar PV Technical Analysis,2,1,18.316
-2021-06-04,2021,4,United Kingdom,Energy Company,Trelleborg Offshore,Storage Technical Analysis,0,1,5.206
-2021-06-04,2021,4,United Kingdom,Energy Company,Trelleborg Offshore,Wind Technical Analysis,2,3,37.432
-2021-06-04,2021,4,United States,Energy Company,Chevron,Project Analysis,1,1,4.229
-2021-06-04,2021,4,United States,Energy Company,Chevron,Renewables  - Economic Analysis,2,1,3.798
-2021-06-04,2021,4,United States,Energy Company,Chevron,Wind Technical Analysis,3,2,6.956
-2021-06-04,2021,4,United States,Other,Guggenheim Securities,CCS Market Analysis,0,2,12.311
-2021-06-04,2021,4,Vietnam,Renewable Energy Company,WPD Offshore,Country Analysis,2,1,5.4
-2021-06-04,2021,4,Vietnam,Renewable Energy Company,WPD Offshore,Project Analysis,3,1,5.153
-2021-07-04,2021,4,Australia,Other,MUFG,Project Analysis,6,4,19.511
-2021-07-04,2021,4,Australia,Other,MUFG,Renewables  - Economic Analysis,1,1,4.923
-2021-07-04,2021,4,Australia,Other,MUFG,Watts Generating - Australia,11,3,2.189
-2021-07-04,2021,4,Australia,Renewable Energy Service Company,Clean Energy Council,Project Analysis,3,1,5.126
-2021-07-04,2021,4,Australia,Renewable Energy Service Company,GE Renewable Energy,Country Analysis,0,1,7.408
-2021-07-04,2021,4,Australia,Renewable Energy Service Company,GE Renewable Energy,Project Analysis,0,2,5.389
-2021-07-04,2021,4,Canada,Other,DNV,Project Analysis,2,1,3.381
-2021-07-04,2021,4,Denmark,Renewable Energy Company,European Energy,Project Analysis,3,1,63.2
-2021-07-04,2021,4,Germany,Other,DNV,Renewables  - Economic Analysis,0,4,12.575
-2021-07-04,2021,4,Germany,Other,DNV,Wind Technical Analysis,0,1,3.3
-2021-07-04,2021,4,Italy,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,2,2,5.983
-2021-07-04,2021,4,Italy,Oilfield Service Company,Schlumberger,Renewables – E&P Companies,2,1,9.144
-2021-07-04,2021,4,Italy,Oilfield Service Company,Schlumberger,Storage Technical Analysis,1,1,6.634
-2021-07-04,2021,4,Norway,Broker,Fearnley Offshore Supply,Wind Technical Analysis,0,1,5.272
-2021-07-04,2021,4,Spain,Other,Iberdrola,Renewables  - Economic Analysis,0,1,3.614
-2021-07-04,2021,4,United Kingdom,Banking,Simmons Energy,Country Analysis,1,1,5.912
-2021-07-04,2021,4,United Kingdom,Renewable Energy Company,Alta Capital,Country Analysis,5,1,3.451
-2021-07-04,2021,4,United States,Banking,UBS,Project Analysis,0,1,5.516
-2021-07-04,2021,4,United States,Consulting,Bain & Company,Project Analysis,2,1,4.383
-2021-07-04,2021,4,United States,Consulting,Bain & Company,Renewables  - Economic Analysis,0,1,4.051
-2021-07-04,2021,4,United States,Industrial,Sumitomo Corporation,Wind Technical Analysis,2,1,9.732
-2021-08-04,2021,4,Afghanistan,Banking,Test,Country Analysis,0,1,39.357
-2021-08-04,2021,4,Australia,Energy Company,Enerven,Solar PV Technical Analysis,1,1,5.416
-2021-08-04,2021,4,Australia,Energy Company,Enerven,Storage Technical Analysis,1,1,3.869
-2021-08-04,2021,4,Australia,Energy Company,RWE,Project Analysis,0,1,19.952
-2021-08-04,2021,4,Australia,Energy Company,Woodside,Country Analysis,8,5,22.022
-2021-08-04,2021,4,Australia,Energy Company,Woodside,Mergers & Acquisitions,2,1,3.673
-2021-08-04,2021,4,Australia,Energy Company,Woodside,Renewables  - Economic Analysis,6,1,5.063
-2021-08-04,2021,4,Australia,Energy Company,Woodside,Solar PV Technical Analysis,0,1,7.01
-2021-08-04,2021,4,Australia,Energy Company,Woodside,Watts Generating - Australia,4,1,3.113
-2021-08-04,2021,4,Australia,Energy Company,Woodside,Wind Technical Analysis,1,1,4.606
-2021-08-04,2021,4,Australia,Other,AGL,Project Analysis,1,2,10.749
-2021-08-04,2021,4,Australia,Other,MUFG,Project Analysis,1,4,6.378
-2021-08-04,2021,4,Australia,Other,Soltec,Solar PV Technical Analysis,1,1,6.273
-2021-08-04,2021,4,China,Research Institute/University,CNPC - ETRI,Project Analysis,1,1,5.086
-2021-08-04,2021,4,Denmark,Oilfield Service Company,Roblon,Wind Technical Analysis,0,1,4.118
-2021-08-04,2021,4,Norway,Banking,DNB,Project Analysis,1,1,6.025
-2021-08-04,2021,4,Norway,Banking,DNB,Storage Technical Analysis,2,1,4.065
-2021-08-04,2021,4,Norway,Oilfield Service Company,Autronica,Wind Technical Analysis,1,1,19.555
-2021-08-04,2021,4,Spain,Other,Iberdrola,Renewables  - Economic Analysis,3,1,5.996
-2021-08-04,2021,4,United Kingdom,Banking,Simmons Energy,Project Analysis,2,1,2.877
-2021-08-04,2021,4,United Kingdom,Banking,UBS,Project Analysis,0,2,15.694
-2021-08-04,2021,4,United States,Banking,Stifel Financial,Country Analysis,5,2,14.888
-2021-08-04,2021,4,United States,Buy Side,Morningstar,Storage Technical Analysis,1,2,5.32
-2021-08-04,2021,4,United States,Energy Company,Chevron,CCS Market Analysis,5,4,20.49
-2021-08-04,2021,4,United States,Energy Company,ExxonMobil,Project Analysis,4,4,10.123
-2021-08-04,2021,4,United States,Energy Company,ExxonMobil,Renewables  - Economic Analysis,2,2,7.44
-2021-08-04,2021,4,United States,Energy Company,ExxonMobil,Renewables – E&P Companies,2,3,8.918
-2021-09-04,2021,4,Australia,Energy Company,BMS Group,Country Analysis,10,2,4.883
-2021-09-04,2021,4,Australia,Government bodies & Organizations,Australian Bureau of Statistics,Project Analysis,1,1,96.069
-2021-09-04,2021,4,Australia,Other,MUFG,Project Analysis,2,2,4.478
-2021-09-04,2021,4,Australia,Other,SunPower,Project Analysis,1,3,5.843
-2021-09-04,2021,4,Australia,Renewable Energy Company,PARF,Watts Generating - Australia,0,1,5.53
-2021-09-04,2021,4,Germany,Other,DNV,Storage Technical Analysis,2,1,3.913
-2021-09-04,2021,4,Greece,Energy Company,Hellenic Petroleum,Project Analysis,0,1,3.424
-2021-09-04,2021,4,Japan,Energy Company,Eneos,Project Analysis,0,2,12.275
-2021-09-04,2021,4,United Kingdom,Banking,Goldman Sachs,Project Analysis,1,1,11.768
-2021-09-04,2021,4,United Kingdom,Banking,Goldman Sachs,Wind Technical Analysis,1,1,7.923
-2021-09-04,2021,4,United Kingdom,Consulting,Accenture,Wind Technical Analysis,0,1,33.065
-2021-09-04,2021,4,United Kingdom,Renewable Energy Company,Alta Capital,Country Analysis,9,4,15.083
-2021-09-04,2021,4,United Kingdom,Renewable Energy Company,Alta Capital,Mergers & Acquisitions,4,18,11.735
-2021-09-04,2021,4,United Kingdom,Renewable Energy Company,Alta Capital,Project Analysis,8,4,15.815
-2021-09-04,2021,4,United Kingdom,Renewable Energy Company,Alta Capital,Renewables  - Economic Analysis,6,3,10.664
-2021-09-04,2021,4,United Kingdom,Renewable Energy Company,Alta Capital,Renewables – E&P Companies,2,1,3.695
-2021-09-04,2021,4,United Kingdom,Renewable Energy Company,Alta Capital,Solar PV Technical Analysis,1,1,2.567
-2021-09-04,2021,4,United Kingdom,Renewable Energy Company,Alta Capital,Storage Technical Analysis,1,1,2.712
-2021-09-04,2021,4,United States,Buy Side,Morningstar,Country Analysis,6,4,11.302
-2021-09-04,2021,4,United States,Buy Side,Morningstar,Renewables  - Economic Analysis,5,3,7.126
-2021-09-04,2021,4,United States,Energy Company,ExxonMobil,Renewables  - Economic Analysis,1,2,4.033
-2021-11-04,2021,4,China,Research Institute/University,CNPC - ETRI,Country Analysis,7,1,7.499
-2021-11-04,2021,4,China,Research Institute/University,CNPC - ETRI,Renewables  - Economic Analysis,0,4,6.873
-2021-12-04,2021,4,Australia,Oilfield Service Company,Schlumberger,Country Analysis,0,1,4.282
-2021-12-04,2021,4,Australia,Other,MUFG,Project Analysis,1,5,16.132
-2021-12-04,2021,4,Australia,Renewable Energy Company,PARF,Watts Generating - Australia,0,1,6.569
-2021-12-04,2021,4,Australia,Renewable Energy Company,Risen Energy,Mergers & Acquisitions,0,1,2.884
-2021-12-04,2021,4,Australia,Renewable Energy Company,Risen Energy,Project Analysis,1,1,4.568
-2021-12-04,2021,4,Australia,Renewable Energy Company,Risen Energy,Solar PV Technical Analysis,2,1,3.481
-2021-12-04,2021,4,Australia,Renewable Energy Company,Risen Energy,Storage Technical Analysis,2,1,4.779
-2021-12-04,2021,4,Australia,Renewable Energy Company,Risen Energy,Watts Generating - Australia,0,1,2.878
-2021-12-04,2021,4,Australia,Renewable Energy Service Company,GE Renewable Energy,Project Analysis,0,1,7.707
-2021-12-04,2021,4,China,Banking,Goldman Sachs,Country Analysis,3,1,8.42
-2021-12-04,2021,4,China,Research Institute/University,CNPC - ETRI,Country Analysis,23,7,44.284
-2021-12-04,2021,4,China,Research Institute/University,CNPC - ETRI,Renewables  - Economic Analysis,11,7,23.203
-2021-12-04,2021,4,China,Research Institute/University,CNPC - ETRI,Renewables – E&P Companies,21,5,73.558
-2021-12-04,2021,4,China,Research Institute/University,CNPC - ETRI,Storage Technical Analysis,2,1,8.058
-2021-12-04,2021,4,Germany,Other,DNV,Project Analysis,1,1,5.324
-2021-12-04,2021,4,Hungary,Energy Company,ExxonMobil,Project Analysis,2,1,4.339
-2021-12-04,2021,4,Hungary,Energy Company,ExxonMobil,Renewables  - Economic Analysis,8,2,7.395
-2021-12-04,2021,4,Hungary,Energy Company,ExxonMobil,Renewables – E&P Companies,2,3,19.57
-2021-12-04,2021,4,Hungary,Energy Company,ExxonMobil,Solar PV Technical Analysis,0,1,3.146
-2021-12-04,2021,4,Netherlands,Oilfield Service Company,National Oilwell Varco,Renewables – E&P Companies,0,1,3.215
-2021-12-04,2021,4,United Kingdom,Banking,UBS,Country Analysis,2,1,5.561
-2021-12-04,2021,4,United Kingdom,Banking,UBS,Mergers & Acquisitions,2,1,4.946
-2021-12-04,2021,4,United Kingdom,Oilfield Service Company,Proserv,Wind Technical Analysis,0,1,29.679
-2021-12-04,2021,4,United Kingdom,Other,Elgin Energy,Watts Generating - Australia,1,1,3.399
-2021-12-04,2021,4,United States,Buy Side,Morningstar,Country Analysis,2,5,3.406
-2021-12-04,2021,4,United States,Buy Side,Morningstar,Renewables  - Economic Analysis,1,1,3.177
-2021-12-04,2021,4,United States,Consulting,Bain & Company,Project Analysis,3,2,8.729
-2021-12-04,2021,4,United States,Consulting,Bain & Company,Renewables  - Economic Analysis,1,2,6.373
-2021-12-04,2021,4,United States,Consulting,Bain & Company,Renewables – E&P Companies,0,1,4.408
-2021-12-04,2021,4,United States,Consulting,Bain & Company,Solar PV Technical Analysis,0,2,7.165
-2021-12-04,2021,4,United States,Consulting,Bain & Company,Storage Technical Analysis,0,1,2.758
-2021-12-04,2021,4,Vietnam,Renewable Energy Company,WPD Offshore,Country Analysis,1,1,7.329
+2021-04-05,2021,4,Australia,Energy Company,Eneos,Project Analysis,0,1,19.321
+2021-04-05,2021,4,Australia,Other,Phillip Riley,Project Analysis,0,2,19.577
+2021-04-05,2021,4,Australia,Renewable Energy Company,FRV,Watts Generating - Australia,1,1,4.702
+2021-04-05,2021,4,France,Oilfield Service Company,Schlumberger,Mergers & Acquisitions,2,1,32.405
+2021-04-05,2021,4,Singapore,Trading,Trafigura,Project Analysis,4,4,7.622
+2021-04-05,2021,4,Singapore,Trading,Trafigura,Watts Generating - Australia,5,1,7.828
+2021-04-05,2021,4,United Kingdom,Banking,Simmons Energy,Storage Technical Analysis,5,1,2.953
+2021-04-05,2021,4,United States,Energy Company,Chevron,Country Analysis,1,1,6.145
+2021-04-05,2021,4,United States,Energy Company,Chevron,Mergers & Acquisitions,2,1,3.234
+2021-04-05,2021,4,Vietnam,Renewable Energy Company,WPD Offshore,Country Analysis,3,4,29.659
+2021-04-05,2021,4,Vietnam,Renewable Energy Company,WPD Offshore,Project Analysis,0,3,4.635
+2021-04-06,2021,4,Afghanistan,Banking,Test,Project Analysis,0,1,4.505
+2021-04-06,2021,4,Australia,Energy Company,Eneos,Project Analysis,1,4,550.84
+2021-04-06,2021,4,Australia,Government bodies & Organizations,Australian Bureau of Statistics,Project Analysis,1,1,20.438
+2021-04-06,2021,4,Australia,Other,Phillip Riley,Project Analysis,2,3,19.431
+2021-04-06,2021,4,Australia,Other,Tilt Renewables,Project Analysis,1,1,16.512
+2021-04-06,2021,4,Australia,Renewable Energy Company,FRV,Watts Generating - Australia,1,1,3.935
+2021-04-06,2021,4,Australia,Trading,Trafigura,Project Analysis,1,1,2.871
+2021-04-06,2021,4,Austria,Other,Voestalpine,Wind Technical Analysis,3,2,9.142
+2021-04-06,2021,4,France,Oilfield Service Company,Bourbon,Project Analysis,0,1,4.017
+2021-04-06,2021,4,Greece,Energy Company,Hellenic Petroleum,Renewables  - Economic Analysis,0,1,3.642
+2021-04-06,2021,4,Japan,Energy Company,Idemitsu,Country Analysis,0,2,7.14
+2021-04-06,2021,4,Japan,Energy Company,Idemitsu,Project Analysis,3,4,19.597
+2021-04-06,2021,4,Japan,Energy Company,Idemitsu,Renewables  - Economic Analysis,2,3,8.274
+2021-04-06,2021,4,Netherlands,Oilfield Service Company,Schlumberger,Storage Technical Analysis,0,1,7.907
+2021-04-06,2021,4,Norway,Oilfield Service Company,Schlumberger,Project Analysis,5,1,3.753
+2021-04-06,2021,4,Norway,Oilfield Service Company,Schlumberger,Renewables – E&P Companies,1,2,6.958
+2021-04-06,2021,4,Singapore,Trading,Trafigura,Project Analysis,0,1,3.527
+2021-04-06,2021,4,Spain,Other,Iberdrola,Renewables  - Economic Analysis,0,2,10.975
+2021-04-06,2021,4,UAE,Oilfield Service Company,National Oilwell Varco,Mergers & Acquisitions,2,1,3.277
+2021-04-06,2021,4,UAE,Oilfield Service Company,National Oilwell Varco,Renewables  - Economic Analysis,4,2,4.042
+2021-04-06,2021,4,UAE,Oilfield Service Company,National Oilwell Varco,Storage Technical Analysis,3,1,2.997
+2021-04-06,2021,4,United Kingdom,Banking,HSBC,Country Analysis,2,1,3.861
+2021-04-06,2021,4,United Kingdom,Banking,HSBC,Renewables  - Economic Analysis,2,2,3.939
+2021-04-06,2021,4,United Kingdom,Banking,HSBC,Wind Technical Analysis,0,1,4.362
+2021-04-06,2021,4,United Kingdom,Consulting,McKinsey & Company,Renewables – E&P Companies,1,1,29.038
+2021-04-06,2021,4,United Kingdom,Energy Company,Trelleborg Offshore,Solar PV Technical Analysis,2,1,18.316
+2021-04-06,2021,4,United Kingdom,Energy Company,Trelleborg Offshore,Storage Technical Analysis,0,1,5.206
+2021-04-06,2021,4,United Kingdom,Energy Company,Trelleborg Offshore,Wind Technical Analysis,2,3,37.432
+2021-04-06,2021,4,United States,Energy Company,Chevron,Project Analysis,1,1,4.229
+2021-04-06,2021,4,United States,Energy Company,Chevron,Renewables  - Economic Analysis,2,1,3.798
+2021-04-06,2021,4,United States,Energy Company,Chevron,Wind Technical Analysis,3,2,6.956
+2021-04-06,2021,4,United States,Other,Guggenheim Securities,CCS Market Analysis,0,2,12.311
+2021-04-06,2021,4,Vietnam,Renewable Energy Company,WPD Offshore,Country Analysis,2,1,5.4
+2021-04-06,2021,4,Vietnam,Renewable Energy Company,WPD Offshore,Project Analysis,3,1,5.153
+2021-04-07,2021,4,Australia,Other,MUFG,Project Analysis,6,4,19.511
+2021-04-07,2021,4,Australia,Other,MUFG,Renewables  - Economic Analysis,1,1,4.923
+2021-04-07,2021,4,Australia,Other,MUFG,Watts Generating - Australia,11,3,2.189
+2021-04-07,2021,4,Australia,Renewable Energy Service Company,Clean Energy Council,Project Analysis,3,1,5.126
+2021-04-07,2021,4,Australia,Renewable Energy Service Company,GE Renewable Energy,Country Analysis,0,1,7.408
+2021-04-07,2021,4,Australia,Renewable Energy Service Company,GE Renewable Energy,Project Analysis,0,2,5.389
+2021-04-07,2021,4,Canada,Other,DNV,Project Analysis,2,1,3.381
+2021-04-07,2021,4,Denmark,Renewable Energy Company,European Energy,Project Analysis,3,1,63.2
+2021-04-07,2021,4,Germany,Other,DNV,Renewables  - Economic Analysis,0,4,12.575
+2021-04-07,2021,4,Germany,Other,DNV,Wind Technical Analysis,0,1,3.3
+2021-04-07,2021,4,Italy,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,2,2,5.983
+2021-04-07,2021,4,Italy,Oilfield Service Company,Schlumberger,Renewables – E&P Companies,2,1,9.144
+2021-04-07,2021,4,Italy,Oilfield Service Company,Schlumberger,Storage Technical Analysis,1,1,6.634
+2021-04-07,2021,4,Norway,Broker,Fearnley Offshore Supply,Wind Technical Analysis,0,1,5.272
+2021-04-07,2021,4,Spain,Other,Iberdrola,Renewables  - Economic Analysis,0,1,3.614
+2021-04-07,2021,4,United Kingdom,Banking,Simmons Energy,Country Analysis,1,1,5.912
+2021-04-07,2021,4,United Kingdom,Renewable Energy Company,Alta Capital,Country Analysis,5,1,3.451
+2021-04-07,2021,4,United States,Banking,UBS,Project Analysis,0,1,5.516
+2021-04-07,2021,4,United States,Consulting,Bain & Company,Project Analysis,2,1,4.383
+2021-04-07,2021,4,United States,Consulting,Bain & Company,Renewables  - Economic Analysis,0,1,4.051
+2021-04-07,2021,4,United States,Industrial,Sumitomo Corporation,Wind Technical Analysis,2,1,9.732
+2021-04-08,2021,4,Afghanistan,Banking,Test,Country Analysis,0,1,39.357
+2021-04-08,2021,4,Australia,Energy Company,Enerven,Solar PV Technical Analysis,1,1,5.416
+2021-04-08,2021,4,Australia,Energy Company,Enerven,Storage Technical Analysis,1,1,3.869
+2021-04-08,2021,4,Australia,Energy Company,RWE,Project Analysis,0,1,19.952
+2021-04-08,2021,4,Australia,Energy Company,Woodside,Country Analysis,8,5,22.022
+2021-04-08,2021,4,Australia,Energy Company,Woodside,Mergers & Acquisitions,2,1,3.673
+2021-04-08,2021,4,Australia,Energy Company,Woodside,Renewables  - Economic Analysis,6,1,5.063
+2021-04-08,2021,4,Australia,Energy Company,Woodside,Solar PV Technical Analysis,0,1,7.01
+2021-04-08,2021,4,Australia,Energy Company,Woodside,Watts Generating - Australia,4,1,3.113
+2021-04-08,2021,4,Australia,Energy Company,Woodside,Wind Technical Analysis,1,1,4.606
+2021-04-08,2021,4,Australia,Other,AGL,Project Analysis,1,2,10.749
+2021-04-08,2021,4,Australia,Other,MUFG,Project Analysis,1,4,6.378
+2021-04-08,2021,4,Australia,Other,Soltec,Solar PV Technical Analysis,1,1,6.273
+2021-04-08,2021,4,China,Research Institute/University,CNPC - ETRI,Project Analysis,1,1,5.086
+2021-04-08,2021,4,Denmark,Oilfield Service Company,Roblon,Wind Technical Analysis,0,1,4.118
+2021-04-08,2021,4,Norway,Banking,DNB,Project Analysis,1,1,6.025
+2021-04-08,2021,4,Norway,Banking,DNB,Storage Technical Analysis,2,1,4.065
+2021-04-08,2021,4,Norway,Oilfield Service Company,Autronica,Wind Technical Analysis,1,1,19.555
+2021-04-08,2021,4,Spain,Other,Iberdrola,Renewables  - Economic Analysis,3,1,5.996
+2021-04-08,2021,4,United Kingdom,Banking,Simmons Energy,Project Analysis,2,1,2.877
+2021-04-08,2021,4,United Kingdom,Banking,UBS,Project Analysis,0,2,15.694
+2021-04-08,2021,4,United States,Banking,Stifel Financial,Country Analysis,5,2,14.888
+2021-04-08,2021,4,United States,Buy Side,Morningstar,Storage Technical Analysis,1,2,5.32
+2021-04-08,2021,4,United States,Energy Company,Chevron,CCS Market Analysis,5,4,20.49
+2021-04-08,2021,4,United States,Energy Company,ExxonMobil,Project Analysis,4,4,10.123
+2021-04-08,2021,4,United States,Energy Company,ExxonMobil,Renewables  - Economic Analysis,2,2,7.44
+2021-04-08,2021,4,United States,Energy Company,ExxonMobil,Renewables – E&P Companies,2,3,8.918
+2021-04-09,2021,4,Australia,Energy Company,BMS Group,Country Analysis,10,2,4.883
+2021-04-09,2021,4,Australia,Government bodies & Organizations,Australian Bureau of Statistics,Project Analysis,1,1,96.069
+2021-04-09,2021,4,Australia,Other,MUFG,Project Analysis,2,2,4.478
+2021-04-09,2021,4,Australia,Other,SunPower,Project Analysis,1,3,5.843
+2021-04-09,2021,4,Australia,Renewable Energy Company,PARF,Watts Generating - Australia,0,1,5.53
+2021-04-09,2021,4,Germany,Other,DNV,Storage Technical Analysis,2,1,3.913
+2021-04-09,2021,4,Greece,Energy Company,Hellenic Petroleum,Project Analysis,0,1,3.424
+2021-04-09,2021,4,Japan,Energy Company,Eneos,Project Analysis,0,2,12.275
+2021-04-09,2021,4,United Kingdom,Banking,Goldman Sachs,Project Analysis,1,1,11.768
+2021-04-09,2021,4,United Kingdom,Banking,Goldman Sachs,Wind Technical Analysis,1,1,7.923
+2021-04-09,2021,4,United Kingdom,Consulting,Accenture,Wind Technical Analysis,0,1,33.065
+2021-04-09,2021,4,United Kingdom,Renewable Energy Company,Alta Capital,Country Analysis,9,4,15.083
+2021-04-09,2021,4,United Kingdom,Renewable Energy Company,Alta Capital,Mergers & Acquisitions,4,18,11.735
+2021-04-09,2021,4,United Kingdom,Renewable Energy Company,Alta Capital,Project Analysis,8,4,15.815
+2021-04-09,2021,4,United Kingdom,Renewable Energy Company,Alta Capital,Renewables  - Economic Analysis,6,3,10.664
+2021-04-09,2021,4,United Kingdom,Renewable Energy Company,Alta Capital,Renewables – E&P Companies,2,1,3.695
+2021-04-09,2021,4,United Kingdom,Renewable Energy Company,Alta Capital,Solar PV Technical Analysis,1,1,2.567
+2021-04-09,2021,4,United Kingdom,Renewable Energy Company,Alta Capital,Storage Technical Analysis,1,1,2.712
+2021-04-09,2021,4,United States,Buy Side,Morningstar,Country Analysis,6,4,11.302
+2021-04-09,2021,4,United States,Buy Side,Morningstar,Renewables  - Economic Analysis,5,3,7.126
+2021-04-09,2021,4,United States,Energy Company,ExxonMobil,Renewables  - Economic Analysis,1,2,4.033
+2021-04-11,2021,4,China,Research Institute/University,CNPC - ETRI,Country Analysis,7,1,7.499
+2021-04-11,2021,4,China,Research Institute/University,CNPC - ETRI,Renewables  - Economic Analysis,0,4,6.873
+2021-04-12,2021,4,Australia,Oilfield Service Company,Schlumberger,Country Analysis,0,1,4.282
+2021-04-12,2021,4,Australia,Other,MUFG,Project Analysis,1,5,16.132
+2021-04-12,2021,4,Australia,Renewable Energy Company,PARF,Watts Generating - Australia,0,1,6.569
+2021-04-12,2021,4,Australia,Renewable Energy Company,Risen Energy,Mergers & Acquisitions,0,1,2.884
+2021-04-12,2021,4,Australia,Renewable Energy Company,Risen Energy,Project Analysis,1,1,4.568
+2021-04-12,2021,4,Australia,Renewable Energy Company,Risen Energy,Solar PV Technical Analysis,2,1,3.481
+2021-04-12,2021,4,Australia,Renewable Energy Company,Risen Energy,Storage Technical Analysis,2,1,4.779
+2021-04-12,2021,4,Australia,Renewable Energy Company,Risen Energy,Watts Generating - Australia,0,1,2.878
+2021-04-12,2021,4,Australia,Renewable Energy Service Company,GE Renewable Energy,Project Analysis,0,1,7.707
+2021-04-12,2021,4,China,Banking,Goldman Sachs,Country Analysis,3,1,8.42
+2021-04-12,2021,4,China,Research Institute/University,CNPC - ETRI,Country Analysis,23,7,44.284
+2021-04-12,2021,4,China,Research Institute/University,CNPC - ETRI,Renewables  - Economic Analysis,11,7,23.203
+2021-04-12,2021,4,China,Research Institute/University,CNPC - ETRI,Renewables – E&P Companies,21,5,73.558
+2021-04-12,2021,4,China,Research Institute/University,CNPC - ETRI,Storage Technical Analysis,2,1,8.058
+2021-04-12,2021,4,Germany,Other,DNV,Project Analysis,1,1,5.324
+2021-04-12,2021,4,Hungary,Energy Company,ExxonMobil,Project Analysis,2,1,4.339
+2021-04-12,2021,4,Hungary,Energy Company,ExxonMobil,Renewables  - Economic Analysis,8,2,7.395
+2021-04-12,2021,4,Hungary,Energy Company,ExxonMobil,Renewables – E&P Companies,2,3,19.57
+2021-04-12,2021,4,Hungary,Energy Company,ExxonMobil,Solar PV Technical Analysis,0,1,3.146
+2021-04-12,2021,4,Netherlands,Oilfield Service Company,National Oilwell Varco,Renewables – E&P Companies,0,1,3.215
+2021-04-12,2021,4,United Kingdom,Banking,UBS,Country Analysis,2,1,5.561
+2021-04-12,2021,4,United Kingdom,Banking,UBS,Mergers & Acquisitions,2,1,4.946
+2021-04-12,2021,4,United Kingdom,Oilfield Service Company,Proserv,Wind Technical Analysis,0,1,29.679
+2021-04-12,2021,4,United Kingdom,Other,Elgin Energy,Watts Generating - Australia,1,1,3.399
+2021-04-12,2021,4,United States,Buy Side,Morningstar,Country Analysis,2,5,3.406
+2021-04-12,2021,4,United States,Buy Side,Morningstar,Renewables  - Economic Analysis,1,1,3.177
+2021-04-12,2021,4,United States,Consulting,Bain & Company,Project Analysis,3,2,8.729
+2021-04-12,2021,4,United States,Consulting,Bain & Company,Renewables  - Economic Analysis,1,2,6.373
+2021-04-12,2021,4,United States,Consulting,Bain & Company,Renewables – E&P Companies,0,1,4.408
+2021-04-12,2021,4,United States,Consulting,Bain & Company,Solar PV Technical Analysis,0,2,7.165
+2021-04-12,2021,4,United States,Consulting,Bain & Company,Storage Technical Analysis,0,1,2.758
+2021-04-12,2021,4,Vietnam,Renewable Energy Company,WPD Offshore,Country Analysis,1,1,7.329
 2021-04-13,2021,4,Australia,Consulting,KPMG,Country Analysis,0,1,10.377
 2021-04-13,2021,4,Australia,Energy Company,Woodside,Country Analysis,3,1,4.379
 2021-04-13,2021,4,Australia,Energy Company,Woodside,Project Analysis,3,1,5.162
@@ -1267,57 +1267,57 @@ date,year,month,country,industry,company,dashname,views,requests,rendertime
 2021-04-30,2021,4,Australia,Renewable Energy Company,Transgrid,Watts Generating - Australia,2,4,6.659
 2021-04-30,2021,4,India,Other,ABB,Project Analysis,0,1,9.293
 2021-04-30,2021,4,United States,Oilfield Service Company,Schlumberger,Solar PV Technical Analysis,0,1,3.16
-2021-01-05,2021,5,Australia,Renewable Energy Company,Pacific Hydro,Country Analysis,4,1,5.511
-2021-01-05,2021,5,Australia,Renewable Energy Company,Pacific Hydro,Project Analysis,3,2,43.173
-2021-02-05,2021,5,UAE,Banking,Goldman Sachs,Wind Technical Analysis,1,1,6.541
-2021-02-05,2021,5,UAE,Other,Adnoc,Solar PV Technical Analysis,0,1,29.74
-2021-02-05,2021,5,United Kingdom,Oilfield Service Company,Schlumberger,Project Analysis,3,1,5.35
-2021-03-05,2021,5,Australia,Energy Company,Eneos,Project Analysis,8,5,29.295
-2021-03-05,2021,5,Australia,Energy Company,Eneos,Solar PV Technical Analysis,0,1,3.784
-2021-03-05,2021,5,Australia,Energy Company,Shell,Project Analysis,0,1,9.667
-2021-03-05,2021,5,Australia,Other,MUFG,Watts Generating - Australia,1,3,9.643
-2021-03-05,2021,5,Australia,Renewable Energy Company,FRV,Project Analysis,1,1,11.643
-2021-03-05,2021,5,Australia,Renewable Energy Company,FRV,Watts Generating - Australia,2,2,8.97
-2021-03-05,2021,5,Australia,Renewable Energy Company,RES Australia,Project Analysis,1,1,6.864
-2021-03-05,2021,5,Australia,Renewable Energy Company,RES Australia,Watts Generating - Australia,1,1,3.26
-2021-03-05,2021,5,Australia,Renewable Energy Company,Terabase,Project Analysis,1,1,7.175
-2021-03-05,2021,5,Australia,Renewable Energy Service Company,Clean Energy Council,Project Analysis,2,1,6.695
-2021-03-05,2021,5,Japan,Energy Company,Eneos,Project Analysis,3,1,4.627
-2021-03-05,2021,5,Japan,Energy Company,Eneos,Solar PV Technical Analysis,0,1,3.76
-2021-03-05,2021,5,Norway,Consulting,Arkwright,Project Analysis,0,1,7.229
-2021-03-05,2021,5,Spain,Renewable Energy Service Company,Atlantic Shores Offshore Wind,Country Analysis,1,1,3.593
-2021-03-05,2021,5,Spain,Renewable Energy Service Company,Atlantic Shores Offshore Wind,Project Analysis,4,2,7.022
-2021-03-05,2021,5,Spain,Renewable Energy Service Company,Atlantic Shores Offshore Wind,Renewables  - Economic Analysis,0,1,2.92
-2021-03-05,2021,5,United States,Energy Company,BP,Wind Technical Analysis,1,1,58.529
-2021-04-05,2021,5,Australia,Energy Company,Eneos,Project Analysis,14,6,78.611
-2021-04-05,2021,5,Australia,Energy Company,Eneos,Watts Generating - Australia,4,4,30.247
-2021-04-05,2021,5,Australia,Other,APA Group,Renewables  - Economic Analysis,1,1,4.313
-2021-04-05,2021,5,Australia,Renewable Energy Company,CWP Renewables,Project Analysis,2,2,19.632
-2021-04-05,2021,5,Australia,Renewable Energy Company,FRV,Watts Generating - Australia,1,1,2.845
-2021-04-05,2021,5,Australia,Renewable Energy Company,Lightsource BP,Project Analysis,3,1,7.497
-2021-04-05,2021,5,Australia,Renewable Energy Company,Lightsource BP,Renewables  - Economic Analysis,3,1,5.153
-2021-04-05,2021,5,Australia,Renewable Energy Company,Lightsource BP,Watts Generating - Australia,0,1,3.519
-2021-04-05,2021,5,Australia,Renewable Energy Company,PARF,Watts Generating - Australia,3,1,4.288
-2021-04-05,2021,5,Australia,Renewable Energy Company,RES Australia,Project Analysis,3,2,629.02
-2021-04-05,2021,5,Australia,Renewable Energy Company,RES Australia,Watts Generating - Australia,3,1,3.701
-2021-04-05,2021,5,Austria,Other,Voestalpine,Project Analysis,1,1,6.948
-2021-04-05,2021,5,France,Renewable Energy Service Company,GE Renewable Energy,Project Analysis,1,1,20.534
-2021-04-05,2021,5,France,Renewable Energy Service Company,GE Renewable Energy,Wind Technical Analysis,1,1,4.835
-2021-04-05,2021,5,Germany,Banking,ABN AMRO Bank,Country Analysis,4,1,27.085
-2021-04-05,2021,5,Germany,Banking,ABN AMRO Bank,Mergers & Acquisitions,0,1,4.718
-2021-04-05,2021,5,Germany,Banking,ABN AMRO Bank,Renewables  - Economic Analysis,4,2,5.317
-2021-04-05,2021,5,Germany,Banking,ABN AMRO Bank,Solar PV Technical Analysis,0,1,7.024
-2021-04-05,2021,5,Netherlands,Banking,ABN AMRO Bank,Country Analysis,0,1,21.917
-2021-04-05,2021,5,Netherlands,Banking,ABN AMRO Bank,Storage Technical Analysis,3,4,14.174
-2021-04-05,2021,5,Norway,Consulting,Arkwright,Project Analysis,1,1,4.14
-2021-04-05,2021,5,Norway,Consulting,Arkwright,Renewables  - Economic Analysis,1,3,25.634
-2021-04-05,2021,5,Norway,Consulting,Arkwright,Storage Technical Analysis,0,1,20.712
-2021-04-05,2021,5,Norway,Consulting,Arkwright,Wind Technical Analysis,0,3,21.637
-2021-04-05,2021,5,Oman,Oilfield Service Company,Schlumberger,Country Analysis,5,1,4.194
-2021-04-05,2021,5,Singapore,Trading,Trafigura,Project Analysis,1,1,5.109
-2021-04-05,2021,5,United Kingdom,Banking,Goldman Sachs,Project Analysis,0,1,12.39
-2021-04-05,2021,5,United Kingdom,Oilfield Service Company,Schlumberger,Project Analysis,0,1,8.79
-2021-04-05,2021,5,United States,Other,ION Geophysical,Wind Technical Analysis,1,1,4.205
+2021-05-01,2021,5,Australia,Renewable Energy Company,Pacific Hydro,Country Analysis,4,1,5.511
+2021-05-01,2021,5,Australia,Renewable Energy Company,Pacific Hydro,Project Analysis,3,2,43.173
+2021-05-02,2021,5,UAE,Banking,Goldman Sachs,Wind Technical Analysis,1,1,6.541
+2021-05-02,2021,5,UAE,Other,Adnoc,Solar PV Technical Analysis,0,1,29.74
+2021-05-02,2021,5,United Kingdom,Oilfield Service Company,Schlumberger,Project Analysis,3,1,5.35
+2021-05-03,2021,5,Australia,Energy Company,Eneos,Project Analysis,8,5,29.295
+2021-05-03,2021,5,Australia,Energy Company,Eneos,Solar PV Technical Analysis,0,1,3.784
+2021-05-03,2021,5,Australia,Energy Company,Shell,Project Analysis,0,1,9.667
+2021-05-03,2021,5,Australia,Other,MUFG,Watts Generating - Australia,1,3,9.643
+2021-05-03,2021,5,Australia,Renewable Energy Company,FRV,Project Analysis,1,1,11.643
+2021-05-03,2021,5,Australia,Renewable Energy Company,FRV,Watts Generating - Australia,2,2,8.97
+2021-05-03,2021,5,Australia,Renewable Energy Company,RES Australia,Project Analysis,1,1,6.864
+2021-05-03,2021,5,Australia,Renewable Energy Company,RES Australia,Watts Generating - Australia,1,1,3.26
+2021-05-03,2021,5,Australia,Renewable Energy Company,Terabase,Project Analysis,1,1,7.175
+2021-05-03,2021,5,Australia,Renewable Energy Service Company,Clean Energy Council,Project Analysis,2,1,6.695
+2021-05-03,2021,5,Japan,Energy Company,Eneos,Project Analysis,3,1,4.627
+2021-05-03,2021,5,Japan,Energy Company,Eneos,Solar PV Technical Analysis,0,1,3.76
+2021-05-03,2021,5,Norway,Consulting,Arkwright,Project Analysis,0,1,7.229
+2021-05-03,2021,5,Spain,Renewable Energy Service Company,Atlantic Shores Offshore Wind,Country Analysis,1,1,3.593
+2021-05-03,2021,5,Spain,Renewable Energy Service Company,Atlantic Shores Offshore Wind,Project Analysis,4,2,7.022
+2021-05-03,2021,5,Spain,Renewable Energy Service Company,Atlantic Shores Offshore Wind,Renewables  - Economic Analysis,0,1,2.92
+2021-05-03,2021,5,United States,Energy Company,BP,Wind Technical Analysis,1,1,58.529
+2021-05-04,2021,5,Australia,Energy Company,Eneos,Project Analysis,14,6,78.611
+2021-05-04,2021,5,Australia,Energy Company,Eneos,Watts Generating - Australia,4,4,30.247
+2021-05-04,2021,5,Australia,Other,APA Group,Renewables  - Economic Analysis,1,1,4.313
+2021-05-04,2021,5,Australia,Renewable Energy Company,CWP Renewables,Project Analysis,2,2,19.632
+2021-05-04,2021,5,Australia,Renewable Energy Company,FRV,Watts Generating - Australia,1,1,2.845
+2021-05-04,2021,5,Australia,Renewable Energy Company,Lightsource BP,Project Analysis,3,1,7.497
+2021-05-04,2021,5,Australia,Renewable Energy Company,Lightsource BP,Renewables  - Economic Analysis,3,1,5.153
+2021-05-04,2021,5,Australia,Renewable Energy Company,Lightsource BP,Watts Generating - Australia,0,1,3.519
+2021-05-04,2021,5,Australia,Renewable Energy Company,PARF,Watts Generating - Australia,3,1,4.288
+2021-05-04,2021,5,Australia,Renewable Energy Company,RES Australia,Project Analysis,3,2,629.02
+2021-05-04,2021,5,Australia,Renewable Energy Company,RES Australia,Watts Generating - Australia,3,1,3.701
+2021-05-04,2021,5,Austria,Other,Voestalpine,Project Analysis,1,1,6.948
+2021-05-04,2021,5,France,Renewable Energy Service Company,GE Renewable Energy,Project Analysis,1,1,20.534
+2021-05-04,2021,5,France,Renewable Energy Service Company,GE Renewable Energy,Wind Technical Analysis,1,1,4.835
+2021-05-04,2021,5,Germany,Banking,ABN AMRO Bank,Country Analysis,4,1,27.085
+2021-05-04,2021,5,Germany,Banking,ABN AMRO Bank,Mergers & Acquisitions,0,1,4.718
+2021-05-04,2021,5,Germany,Banking,ABN AMRO Bank,Renewables  - Economic Analysis,4,2,5.317
+2021-05-04,2021,5,Germany,Banking,ABN AMRO Bank,Solar PV Technical Analysis,0,1,7.024
+2021-05-04,2021,5,Netherlands,Banking,ABN AMRO Bank,Country Analysis,0,1,21.917
+2021-05-04,2021,5,Netherlands,Banking,ABN AMRO Bank,Storage Technical Analysis,3,4,14.174
+2021-05-04,2021,5,Norway,Consulting,Arkwright,Project Analysis,1,1,4.14
+2021-05-04,2021,5,Norway,Consulting,Arkwright,Renewables  - Economic Analysis,1,3,25.634
+2021-05-04,2021,5,Norway,Consulting,Arkwright,Storage Technical Analysis,0,1,20.712
+2021-05-04,2021,5,Norway,Consulting,Arkwright,Wind Technical Analysis,0,3,21.637
+2021-05-04,2021,5,Oman,Oilfield Service Company,Schlumberger,Country Analysis,5,1,4.194
+2021-05-04,2021,5,Singapore,Trading,Trafigura,Project Analysis,1,1,5.109
+2021-05-04,2021,5,United Kingdom,Banking,Goldman Sachs,Project Analysis,0,1,12.39
+2021-05-04,2021,5,United Kingdom,Oilfield Service Company,Schlumberger,Project Analysis,0,1,8.79
+2021-05-04,2021,5,United States,Other,ION Geophysical,Wind Technical Analysis,1,1,4.205
 2021-05-05,2021,5,Australia,Energy Company,Beach Energy,Country Analysis,5,1,5.439
 2021-05-05,2021,5,Australia,Energy Company,Beach Energy,Project Analysis,0,1,6.328
 2021-05-05,2021,5,Australia,Energy Company,Eneos,Project Analysis,0,1,4.86
@@ -1345,127 +1345,127 @@ date,year,month,country,industry,company,dashname,views,requests,rendertime
 2021-05-05,2021,5,United Kingdom,Other,FTI Consulting,Storage Technical Analysis,6,1,3.066
 2021-05-05,2021,5,United States,Energy Company,Chevron,CCS Market Analysis,0,1,10.87
 2021-05-05,2021,5,United States,Other,Guggenheim Securities,CCS Market Analysis,15,8,36.47
-2021-06-05,2021,5,Australia,Consulting,KPMG,Project Analysis,1,2,22.026
-2021-06-05,2021,5,Australia,Energy Company,Enerven,Mergers & Acquisitions,0,1,4.855
-2021-06-05,2021,5,Australia,Energy Company,RWE,Project Analysis,4,2,16.379
-2021-06-05,2021,5,Australia,Other,APA Group,Project Analysis,0,1,5.728
-2021-06-05,2021,5,Australia,Other,APA Group,Storage Technical Analysis,0,1,3.168
-2021-06-05,2021,5,Australia,Other,Maoneng,Mergers & Acquisitions,2,2,7.664
-2021-06-05,2021,5,Australia,Other,MUFG,Project Analysis,1,1,4.988
-2021-06-05,2021,5,Australia,Other,Phillip Riley,Project Analysis,0,1,9.548
-2021-06-05,2021,5,Australia,Other,SunPower,Project Analysis,0,1,4.587
-2021-06-05,2021,5,Australia,Renewable Energy Company,RES Australia,Project Analysis,0,2,10.598
-2021-06-05,2021,5,Australia,Renewable Energy Company,RES Australia,Watts Generating - Australia,4,1,3.193
-2021-06-05,2021,5,Australia,Renewable Energy Company,Transgrid,Watts Generating - Australia,1,1,2.886
-2021-06-05,2021,5,France,Renewable Energy Service Company,GE Renewable Energy,Project Analysis,3,4,16.43
-2021-06-05,2021,5,Germany,Oilfield Service Company,Autronica,Wind Technical Analysis,3,1,8.305
-2021-06-05,2021,5,India,Other,NexTracker,Project Analysis,5,5,23.057
-2021-06-05,2021,5,India,Other,NexTracker,Solar PV Technical Analysis,1,3,9.147
-2021-06-05,2021,5,Indonesia,Oilfield Service Company,Schlumberger,Country Analysis,0,1,4.197
-2021-06-05,2021,5,Spain,Renewable Energy Service Company,Atlantic Shores Offshore Wind,Country Analysis,2,1,3.28
-2021-06-05,2021,5,Thailand,Renewable Energy Company,Global Power Synergy Company (GPSC),Renewables  - Economic Analysis,12,4,14.448
-2021-06-05,2021,5,Thailand,Renewable Energy Company,Global Power Synergy Company (GPSC),Storage Technical Analysis,0,1,3.554
-2021-06-05,2021,5,United States,Consulting,CARNRITE Group,Country Analysis,0,1,3.241
-2021-07-05,2021,5,Australia,Energy Company,Eneos,Project Analysis,4,2,14.416
-2021-07-05,2021,5,Australia,Other,Phillip Riley,Project Analysis,0,3,23.611
-2021-07-05,2021,5,Australia,Renewable Energy Company,FRV,Project Analysis,1,1,8.559
-2021-07-05,2021,5,Australia,Renewable Energy Company,RES Australia,Project Analysis,1,4,10.34
-2021-07-05,2021,5,Australia,Renewable Energy Company,RES Australia,Watts Generating - Australia,14,4,11.877
-2021-07-05,2021,5,Australia,Renewable Energy Company,Transgrid,Watts Generating - Australia,0,1,3.166
-2021-07-05,2021,5,Canada,Other,DNV,Project Analysis,0,1,9.574
-2021-07-05,2021,5,Hungary,Energy Company,ExxonMobil,Country Analysis,5,5,7.617
-2021-07-05,2021,5,Hungary,Energy Company,ExxonMobil,Project Analysis,4,3,8.881
-2021-07-05,2021,5,Hungary,Energy Company,ExxonMobil,Renewables – E&P Companies,0,3,32.997
-2021-07-05,2021,5,Thailand,Renewable Energy Company,Global Power Synergy Company (GPSC),Storage Technical Analysis,1,2,3.455
-2021-07-05,2021,5,United States,Energy Company,Chevron,Project Analysis,0,1,16.694
-2021-07-05,2021,5,United States,Energy Company,Chevron,Renewables  - Economic Analysis,5,4,34.096
-2021-08-05,2021,5,Australia,Consulting,KPMG,Project Analysis,1,1,181.379
-2021-10-05,2021,5,Australia,Energy Company,RWE,Country Analysis,0,2,36.875
-2021-10-05,2021,5,Australia,Energy Company,RWE,Project Analysis,0,2,3.531
-2021-10-05,2021,5,Australia,Energy Company,RWE,Wind Technical Analysis,0,1,2.874
-2021-10-05,2021,5,Australia,Energy Company,Woodside,Project Analysis,3,2,14.098
-2021-10-05,2021,5,Australia,Energy Company,Woodside,Renewables  - Economic Analysis,2,4,17.448
-2021-10-05,2021,5,Australia,Other,CEFC,Country Analysis,0,1,14.011
-2021-10-05,2021,5,Australia,Other,CEFC,Project Analysis,12,7,55.665
-2021-10-05,2021,5,Australia,Other,CEFC,Renewables  - Economic Analysis,2,1,14.105
-2021-10-05,2021,5,Australia,Other,CEFC,Watts Generating - Australia,3,3,9.408
-2021-10-05,2021,5,Australia,Other,CEFC,Wind Technical Analysis,0,2,12.452
-2021-10-05,2021,5,Netherlands,Banking,ABN AMRO Bank,Solar PV Technical Analysis,1,1,21.382
-2021-10-05,2021,5,Netherlands,Banking,ABN AMRO Bank,Storage Technical Analysis,0,1,4.619
-2021-10-05,2021,5,Norway,Consulting,Arkwright,Project Analysis,2,3,3.444
-2021-10-05,2021,5,Spain,Renewable Energy Company,FRV,Watts Generating - Australia,1,1,2.644
-2021-10-05,2021,5,United Kingdom,Banking,Goldman Sachs,Country Analysis,4,1,6.999
-2021-10-05,2021,5,United Kingdom,Banking,Goldman Sachs,Project Analysis,4,1,16.58
-2021-10-05,2021,5,United States,Consulting,CARNRITE Group,Country Analysis,7,6,13.855
-2021-10-05,2021,5,United States,Consulting,CARNRITE Group,Project Analysis,1,1,4.799
-2021-10-05,2021,5,United States,Consulting,CARNRITE Group,Renewables  - Economic Analysis,2,1,3.568
-2021-10-05,2021,5,United States,Consulting,CARNRITE Group,Renewables – E&P Companies,3,1,37.604
-2021-10-05,2021,5,United States,Consulting,CARNRITE Group,Solar PV Technical Analysis,2,2,7.101
-2021-10-05,2021,5,United States,Consulting,CARNRITE Group,Wind Technical Analysis,2,2,4.745
-2021-10-05,2021,5,United States,Energy Company,Chevron,CCS Market Analysis,5,5,5.985
-2021-10-05,2021,5,United States,Energy Company,Chevron,Project Analysis,0,1,7.048
-2021-11-05,2021,5,Australia,Energy Company,Eneos,Project Analysis,7,3,29.246
-2021-11-05,2021,5,Australia,Energy Company,Eneos,Watts Generating - Australia,1,1,17.959
-2021-11-05,2021,5,Australia,Energy Company,Woodside,Watts Generating - Australia,2,1,2.641
-2021-11-05,2021,5,Australia,Other,CEFC,Project Analysis,0,1,7.273
-2021-11-05,2021,5,Australia,Renewable Energy Company,RES Australia,Project Analysis,6,2,16.848
-2021-11-05,2021,5,Australia,Renewable Energy Company,RES Australia,Watts Generating - Australia,9,5,15.021
-2021-11-05,2021,5,Australia,Renewable Energy Company,Transgrid,Watts Generating - Australia,0,1,3.248
-2021-11-05,2021,5,Australia,Renewable Energy Company,Venn Energy,Country Analysis,3,1,5.58
-2021-11-05,2021,5,Australia,Renewable Energy Company,Venn Energy,Mergers & Acquisitions,3,2,18.418
-2021-11-05,2021,5,Australia,Renewable Energy Company,Venn Energy,Project Analysis,7,5,41.702
-2021-11-05,2021,5,Australia,Renewable Energy Company,Venn Energy,Renewables  - Economic Analysis,6,2,7.111
-2021-11-05,2021,5,Australia,Renewable Energy Company,Venn Energy,Storage Technical Analysis,5,5,14.678
-2021-11-05,2021,5,Australia,Renewable Energy Company,Venn Energy,Watts Generating - Australia,3,2,6.686
-2021-11-05,2021,5,Australia,Trading,Trafigura,Project Analysis,3,1,4.526
-2021-11-05,2021,5,India,Other,NexTracker,Solar PV Technical Analysis,1,1,3.523
-2021-11-05,2021,5,Italy,Other,DNV,Project Analysis,3,1,37.606
-2021-11-05,2021,5,Italy,Other,DNV,Solar PV Technical Analysis,3,2,39.478
-2021-11-05,2021,5,Italy,Other,DNV,Wind Technical Analysis,1,1,11.969
-2021-11-05,2021,5,Norway,Consulting,Arkwright,Project Analysis,3,3,5.512
-2021-11-05,2021,5,Norway,Consulting,Arkwright,Renewables  - Economic Analysis,0,1,3.56
-2021-11-05,2021,5,Norway,Oilfield Service Company,Baker Hughes,Project Analysis,1,1,10.771
-2021-11-05,2021,5,Singapore,Other,NexTracker,Country Analysis,1,11,4.429
-2021-11-05,2021,5,Singapore,Other,NexTracker,Project Analysis,0,2,5.137
-2021-11-05,2021,5,Spain,Other,Iberdrola,Renewables  - Economic Analysis,6,1,2.527
-2021-11-05,2021,5,Spain,Other,Soltec,Renewables  - Economic Analysis,12,3,9.593
-2021-11-05,2021,5,Thailand,Renewable Energy Company,Global Power Synergy Company (GPSC),Project Analysis,1,1,13.811
-2021-11-05,2021,5,United Kingdom,Banking,Simmons Energy,Project Analysis,1,1,4.208
-2021-11-05,2021,5,United Kingdom,Banking,Simmons Energy,Wind Technical Analysis,0,1,3.827
-2021-11-05,2021,5,United Kingdom,Research Institute/University,Oil & Gas UK,Renewables – E&P Companies,3,1,36.401
-2021-11-05,2021,5,United States,Consulting,CARNRITE Group,Country Analysis,2,3,11.943
-2021-11-05,2021,5,United States,Consulting,CARNRITE Group,Project Analysis,0,1,5.255
-2021-11-05,2021,5,United States,Consulting,CARNRITE Group,Renewables – E&P Companies,0,1,4.001
-2021-11-05,2021,5,United States,Consulting,CARNRITE Group,Wind Technical Analysis,1,1,3.989
-2021-11-05,2021,5,United States,Oilfield Service Company,Schlumberger,Country Analysis,3,2,4.503
-2021-11-05,2021,5,United States,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,0,1,2.806
-2021-11-05,2021,5,United States,Oilfield Service Company,Schlumberger,Renewables – E&P Companies,6,1,5.955
-2021-12-05,2021,5,Australia,Consulting,KPMG,Project Analysis,1,2,12.271
-2021-12-05,2021,5,Australia,Energy Company,Eneos,Country Analysis,1,1,5.24
-2021-12-05,2021,5,Australia,Energy Company,Eneos,Project Analysis,5,1,10.205
-2021-12-05,2021,5,Australia,Other,AGL,Project Analysis,1,1,32.451
-2021-12-05,2021,5,Australia,Other,APA Group,Project Analysis,1,1,4.561
-2021-12-05,2021,5,Australia,Other,APA Group,Solar PV Technical Analysis,2,2,20.903
-2021-12-05,2021,5,Australia,Other,CEFC,Project Analysis,2,1,6.351
-2021-12-05,2021,5,Australia,Other,MUFG,Project Analysis,3,4,34.517
-2021-12-05,2021,5,Australia,Other,Phillip Riley,Project Analysis,0,1,10.149
-2021-12-05,2021,5,Australia,Renewable Energy Company,Array Technologies,Project Analysis,0,1,8.418
-2021-12-05,2021,5,Australia,Renewable Energy Company,CWP Renewables,Project Analysis,0,2,17.811
-2021-12-05,2021,5,Australia,Renewable Energy Company,Pacific Hydro,Country Analysis,4,1,3.241
-2021-12-05,2021,5,Australia,Renewable Energy Company,PARF,Watts Generating - Australia,0,1,13.329
-2021-12-05,2021,5,Australia,Renewable Energy Company,Transgrid,Country Analysis,1,1,25.587
-2021-12-05,2021,5,Australia,Renewable Energy Company,Transgrid,Project Analysis,2,2,7.413
-2021-12-05,2021,5,Australia,Renewable Energy Service Company,Clean Energy Council,Country Analysis,6,1,4.365
-2021-12-05,2021,5,India,Oilfield Service Company,Aker Solutions,Wind Technical Analysis,1,1,29.328
-2021-12-05,2021,5,India,Other,NexTracker,Renewables  - Economic Analysis,0,1,4.195
-2021-12-05,2021,5,Malaysia,Oilfield Service Company,Schlumberger,Wind Technical Analysis,4,2,4.654
-2021-12-05,2021,5,Netherlands,Banking,ABN AMRO Bank,Country Analysis,6,2,17.495
-2021-12-05,2021,5,Norway,Other,DOF Subsea,Wind Technical Analysis,1,1,8.19
-2021-12-05,2021,5,United States,Energy Company,Chevron,Mergers & Acquisitions,3,1,6.207
-2021-12-05,2021,5,United States,Oilfield Service Company,Schlumberger,Country Analysis,5,2,9.817
-2021-12-05,2021,5,United States,Other,Parker Hannifin,Project Analysis,1,1,3.991
-2021-12-05,2021,5,United States,Other,Parker Hannifin,Renewables  - Economic Analysis,2,3,3.616
-2021-12-05,2021,5,United States,Other,Parker Hannifin,Wind Technical Analysis,3,3,9.032
+2021-05-06,2021,5,Australia,Consulting,KPMG,Project Analysis,1,2,22.026
+2021-05-06,2021,5,Australia,Energy Company,Enerven,Mergers & Acquisitions,0,1,4.855
+2021-05-06,2021,5,Australia,Energy Company,RWE,Project Analysis,4,2,16.379
+2021-05-06,2021,5,Australia,Other,APA Group,Project Analysis,0,1,5.728
+2021-05-06,2021,5,Australia,Other,APA Group,Storage Technical Analysis,0,1,3.168
+2021-05-06,2021,5,Australia,Other,Maoneng,Mergers & Acquisitions,2,2,7.664
+2021-05-06,2021,5,Australia,Other,MUFG,Project Analysis,1,1,4.988
+2021-05-06,2021,5,Australia,Other,Phillip Riley,Project Analysis,0,1,9.548
+2021-05-06,2021,5,Australia,Other,SunPower,Project Analysis,0,1,4.587
+2021-05-06,2021,5,Australia,Renewable Energy Company,RES Australia,Project Analysis,0,2,10.598
+2021-05-06,2021,5,Australia,Renewable Energy Company,RES Australia,Watts Generating - Australia,4,1,3.193
+2021-05-06,2021,5,Australia,Renewable Energy Company,Transgrid,Watts Generating - Australia,1,1,2.886
+2021-05-06,2021,5,France,Renewable Energy Service Company,GE Renewable Energy,Project Analysis,3,4,16.43
+2021-05-06,2021,5,Germany,Oilfield Service Company,Autronica,Wind Technical Analysis,3,1,8.305
+2021-05-06,2021,5,India,Other,NexTracker,Project Analysis,5,5,23.057
+2021-05-06,2021,5,India,Other,NexTracker,Solar PV Technical Analysis,1,3,9.147
+2021-05-06,2021,5,Indonesia,Oilfield Service Company,Schlumberger,Country Analysis,0,1,4.197
+2021-05-06,2021,5,Spain,Renewable Energy Service Company,Atlantic Shores Offshore Wind,Country Analysis,2,1,3.28
+2021-05-06,2021,5,Thailand,Renewable Energy Company,Global Power Synergy Company (GPSC),Renewables  - Economic Analysis,12,4,14.448
+2021-05-06,2021,5,Thailand,Renewable Energy Company,Global Power Synergy Company (GPSC),Storage Technical Analysis,0,1,3.554
+2021-05-06,2021,5,United States,Consulting,CARNRITE Group,Country Analysis,0,1,3.241
+2021-05-07,2021,5,Australia,Energy Company,Eneos,Project Analysis,4,2,14.416
+2021-05-07,2021,5,Australia,Other,Phillip Riley,Project Analysis,0,3,23.611
+2021-05-07,2021,5,Australia,Renewable Energy Company,FRV,Project Analysis,1,1,8.559
+2021-05-07,2021,5,Australia,Renewable Energy Company,RES Australia,Project Analysis,1,4,10.34
+2021-05-07,2021,5,Australia,Renewable Energy Company,RES Australia,Watts Generating - Australia,14,4,11.877
+2021-05-07,2021,5,Australia,Renewable Energy Company,Transgrid,Watts Generating - Australia,0,1,3.166
+2021-05-07,2021,5,Canada,Other,DNV,Project Analysis,0,1,9.574
+2021-05-07,2021,5,Hungary,Energy Company,ExxonMobil,Country Analysis,5,5,7.617
+2021-05-07,2021,5,Hungary,Energy Company,ExxonMobil,Project Analysis,4,3,8.881
+2021-05-07,2021,5,Hungary,Energy Company,ExxonMobil,Renewables – E&P Companies,0,3,32.997
+2021-05-07,2021,5,Thailand,Renewable Energy Company,Global Power Synergy Company (GPSC),Storage Technical Analysis,1,2,3.455
+2021-05-07,2021,5,United States,Energy Company,Chevron,Project Analysis,0,1,16.694
+2021-05-07,2021,5,United States,Energy Company,Chevron,Renewables  - Economic Analysis,5,4,34.096
+2021-05-08,2021,5,Australia,Consulting,KPMG,Project Analysis,1,1,181.379
+2021-05-10,2021,5,Australia,Energy Company,RWE,Country Analysis,0,2,36.875
+2021-05-10,2021,5,Australia,Energy Company,RWE,Project Analysis,0,2,3.531
+2021-05-10,2021,5,Australia,Energy Company,RWE,Wind Technical Analysis,0,1,2.874
+2021-05-10,2021,5,Australia,Energy Company,Woodside,Project Analysis,3,2,14.098
+2021-05-10,2021,5,Australia,Energy Company,Woodside,Renewables  - Economic Analysis,2,4,17.448
+2021-05-10,2021,5,Australia,Other,CEFC,Country Analysis,0,1,14.011
+2021-05-10,2021,5,Australia,Other,CEFC,Project Analysis,12,7,55.665
+2021-05-10,2021,5,Australia,Other,CEFC,Renewables  - Economic Analysis,2,1,14.105
+2021-05-10,2021,5,Australia,Other,CEFC,Watts Generating - Australia,3,3,9.408
+2021-05-10,2021,5,Australia,Other,CEFC,Wind Technical Analysis,0,2,12.452
+2021-05-10,2021,5,Netherlands,Banking,ABN AMRO Bank,Solar PV Technical Analysis,1,1,21.382
+2021-05-10,2021,5,Netherlands,Banking,ABN AMRO Bank,Storage Technical Analysis,0,1,4.619
+2021-05-10,2021,5,Norway,Consulting,Arkwright,Project Analysis,2,3,3.444
+2021-05-10,2021,5,Spain,Renewable Energy Company,FRV,Watts Generating - Australia,1,1,2.644
+2021-05-10,2021,5,United Kingdom,Banking,Goldman Sachs,Country Analysis,4,1,6.999
+2021-05-10,2021,5,United Kingdom,Banking,Goldman Sachs,Project Analysis,4,1,16.58
+2021-05-10,2021,5,United States,Consulting,CARNRITE Group,Country Analysis,7,6,13.855
+2021-05-10,2021,5,United States,Consulting,CARNRITE Group,Project Analysis,1,1,4.799
+2021-05-10,2021,5,United States,Consulting,CARNRITE Group,Renewables  - Economic Analysis,2,1,3.568
+2021-05-10,2021,5,United States,Consulting,CARNRITE Group,Renewables – E&P Companies,3,1,37.604
+2021-05-10,2021,5,United States,Consulting,CARNRITE Group,Solar PV Technical Analysis,2,2,7.101
+2021-05-10,2021,5,United States,Consulting,CARNRITE Group,Wind Technical Analysis,2,2,4.745
+2021-05-10,2021,5,United States,Energy Company,Chevron,CCS Market Analysis,5,5,5.985
+2021-05-10,2021,5,United States,Energy Company,Chevron,Project Analysis,0,1,7.048
+2021-05-11,2021,5,Australia,Energy Company,Eneos,Project Analysis,7,3,29.246
+2021-05-11,2021,5,Australia,Energy Company,Eneos,Watts Generating - Australia,1,1,17.959
+2021-05-11,2021,5,Australia,Energy Company,Woodside,Watts Generating - Australia,2,1,2.641
+2021-05-11,2021,5,Australia,Other,CEFC,Project Analysis,0,1,7.273
+2021-05-11,2021,5,Australia,Renewable Energy Company,RES Australia,Project Analysis,6,2,16.848
+2021-05-11,2021,5,Australia,Renewable Energy Company,RES Australia,Watts Generating - Australia,9,5,15.021
+2021-05-11,2021,5,Australia,Renewable Energy Company,Transgrid,Watts Generating - Australia,0,1,3.248
+2021-05-11,2021,5,Australia,Renewable Energy Company,Venn Energy,Country Analysis,3,1,5.58
+2021-05-11,2021,5,Australia,Renewable Energy Company,Venn Energy,Mergers & Acquisitions,3,2,18.418
+2021-05-11,2021,5,Australia,Renewable Energy Company,Venn Energy,Project Analysis,7,5,41.702
+2021-05-11,2021,5,Australia,Renewable Energy Company,Venn Energy,Renewables  - Economic Analysis,6,2,7.111
+2021-05-11,2021,5,Australia,Renewable Energy Company,Venn Energy,Storage Technical Analysis,5,5,14.678
+2021-05-11,2021,5,Australia,Renewable Energy Company,Venn Energy,Watts Generating - Australia,3,2,6.686
+2021-05-11,2021,5,Australia,Trading,Trafigura,Project Analysis,3,1,4.526
+2021-05-11,2021,5,India,Other,NexTracker,Solar PV Technical Analysis,1,1,3.523
+2021-05-11,2021,5,Italy,Other,DNV,Project Analysis,3,1,37.606
+2021-05-11,2021,5,Italy,Other,DNV,Solar PV Technical Analysis,3,2,39.478
+2021-05-11,2021,5,Italy,Other,DNV,Wind Technical Analysis,1,1,11.969
+2021-05-11,2021,5,Norway,Consulting,Arkwright,Project Analysis,3,3,5.512
+2021-05-11,2021,5,Norway,Consulting,Arkwright,Renewables  - Economic Analysis,0,1,3.56
+2021-05-11,2021,5,Norway,Oilfield Service Company,Baker Hughes,Project Analysis,1,1,10.771
+2021-05-11,2021,5,Singapore,Other,NexTracker,Country Analysis,1,11,4.429
+2021-05-11,2021,5,Singapore,Other,NexTracker,Project Analysis,0,2,5.137
+2021-05-11,2021,5,Spain,Other,Iberdrola,Renewables  - Economic Analysis,6,1,2.527
+2021-05-11,2021,5,Spain,Other,Soltec,Renewables  - Economic Analysis,12,3,9.593
+2021-05-11,2021,5,Thailand,Renewable Energy Company,Global Power Synergy Company (GPSC),Project Analysis,1,1,13.811
+2021-05-11,2021,5,United Kingdom,Banking,Simmons Energy,Project Analysis,1,1,4.208
+2021-05-11,2021,5,United Kingdom,Banking,Simmons Energy,Wind Technical Analysis,0,1,3.827
+2021-05-11,2021,5,United Kingdom,Research Institute/University,Oil & Gas UK,Renewables – E&P Companies,3,1,36.401
+2021-05-11,2021,5,United States,Consulting,CARNRITE Group,Country Analysis,2,3,11.943
+2021-05-11,2021,5,United States,Consulting,CARNRITE Group,Project Analysis,0,1,5.255
+2021-05-11,2021,5,United States,Consulting,CARNRITE Group,Renewables – E&P Companies,0,1,4.001
+2021-05-11,2021,5,United States,Consulting,CARNRITE Group,Wind Technical Analysis,1,1,3.989
+2021-05-11,2021,5,United States,Oilfield Service Company,Schlumberger,Country Analysis,3,2,4.503
+2021-05-11,2021,5,United States,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,0,1,2.806
+2021-05-11,2021,5,United States,Oilfield Service Company,Schlumberger,Renewables – E&P Companies,6,1,5.955
+2021-05-12,2021,5,Australia,Consulting,KPMG,Project Analysis,1,2,12.271
+2021-05-12,2021,5,Australia,Energy Company,Eneos,Country Analysis,1,1,5.24
+2021-05-12,2021,5,Australia,Energy Company,Eneos,Project Analysis,5,1,10.205
+2021-05-12,2021,5,Australia,Other,AGL,Project Analysis,1,1,32.451
+2021-05-12,2021,5,Australia,Other,APA Group,Project Analysis,1,1,4.561
+2021-05-12,2021,5,Australia,Other,APA Group,Solar PV Technical Analysis,2,2,20.903
+2021-05-12,2021,5,Australia,Other,CEFC,Project Analysis,2,1,6.351
+2021-05-12,2021,5,Australia,Other,MUFG,Project Analysis,3,4,34.517
+2021-05-12,2021,5,Australia,Other,Phillip Riley,Project Analysis,0,1,10.149
+2021-05-12,2021,5,Australia,Renewable Energy Company,Array Technologies,Project Analysis,0,1,8.418
+2021-05-12,2021,5,Australia,Renewable Energy Company,CWP Renewables,Project Analysis,0,2,17.811
+2021-05-12,2021,5,Australia,Renewable Energy Company,Pacific Hydro,Country Analysis,4,1,3.241
+2021-05-12,2021,5,Australia,Renewable Energy Company,PARF,Watts Generating - Australia,0,1,13.329
+2021-05-12,2021,5,Australia,Renewable Energy Company,Transgrid,Country Analysis,1,1,25.587
+2021-05-12,2021,5,Australia,Renewable Energy Company,Transgrid,Project Analysis,2,2,7.413
+2021-05-12,2021,5,Australia,Renewable Energy Service Company,Clean Energy Council,Country Analysis,6,1,4.365
+2021-05-12,2021,5,India,Oilfield Service Company,Aker Solutions,Wind Technical Analysis,1,1,29.328
+2021-05-12,2021,5,India,Other,NexTracker,Renewables  - Economic Analysis,0,1,4.195
+2021-05-12,2021,5,Malaysia,Oilfield Service Company,Schlumberger,Wind Technical Analysis,4,2,4.654
+2021-05-12,2021,5,Netherlands,Banking,ABN AMRO Bank,Country Analysis,6,2,17.495
+2021-05-12,2021,5,Norway,Other,DOF Subsea,Wind Technical Analysis,1,1,8.19
+2021-05-12,2021,5,United States,Energy Company,Chevron,Mergers & Acquisitions,3,1,6.207
+2021-05-12,2021,5,United States,Oilfield Service Company,Schlumberger,Country Analysis,5,2,9.817
+2021-05-12,2021,5,United States,Other,Parker Hannifin,Project Analysis,1,1,3.991
+2021-05-12,2021,5,United States,Other,Parker Hannifin,Renewables  - Economic Analysis,2,3,3.616
+2021-05-12,2021,5,United States,Other,Parker Hannifin,Wind Technical Analysis,3,3,9.032
 2021-05-13,2021,5,Australia,Energy Company,Eneos,Project Analysis,5,1,4.02
 2021-05-13,2021,5,Australia,Energy Company,RWE,Project Analysis,1,1,6.59
 2021-05-13,2021,5,Australia,Other,MUFG,Project Analysis,0,1,4.917
@@ -1774,212 +1774,212 @@ date,year,month,country,industry,company,dashname,views,requests,rendertime
 2021-05-31,2021,5,Singapore,Other,NexTracker,Solar PV Technical Analysis,1,2,3.376
 2021-05-31,2021,5,United States,Renewable Energy Company,Terabase,Country Analysis,0,1,3.208
 2021-05-31,2021,5,United States,Renewable Energy Company,Terabase,Solar PV Technical Analysis,0,1,18.886
-2021-01-06,2021,6,Australia,Energy Company,Enerven,Project Analysis,0,2,58.899
-2021-01-06,2021,6,Australia,Energy Company,Origin Energy,Project Analysis,0,1,0.0
-2021-01-06,2021,6,Australia,Energy Company,Origin Energy,Watts Generating - Australia,0,1,4.48
-2021-01-06,2021,6,Australia,Other,AGL,Project Analysis,1,1,8.515
-2021-01-06,2021,6,Australia,Other,APA Group,Project Analysis,0,1,6.123
-2021-01-06,2021,6,Australia,Other,Windlab,Project Analysis,5,3,14.739
-2021-01-06,2021,6,Australia,Renewable Energy Company,RES Australia,Project Analysis,4,1,9.266
-2021-01-06,2021,6,Australia,Renewable Energy Service Company,GE Renewable Energy,Project Analysis,0,1,11.067
-2021-01-06,2021,6,Brazil,Oilfield Service Company,Schlumberger,CCS Market Analysis,0,1,4.403
-2021-01-06,2021,6,Canada,Energy Company,Chevron,CCS Market Analysis,5,2,6.528
-2021-01-06,2021,6,Canada,Energy Company,Enerflex,CCS Market Analysis,6,3,13.746
-2021-01-06,2021,6,China,Oilfield Service Company,COSL,Wind Technical Analysis,1,1,8.124
-2021-01-06,2021,6,France,Oilfield Service Company,Schlumberger,CCS Market Analysis,2,2,8.944
-2021-01-06,2021,6,Italy,Other,DNV,Solar PV Technical Analysis,0,1,8.433
-2021-01-06,2021,6,Netherlands,Banking,ABN AMRO Bank,Country Analysis,0,1,3.876
-2021-01-06,2021,6,Netherlands,Banking,ABN AMRO Bank,Project Analysis,0,1,5.305
-2021-01-06,2021,6,Norway,Oilfield Service Company,Halliburton,Hydrogen Analysis,2,3,7.083
-2021-01-06,2021,6,Norway,Other,Gard,Wind Technical Analysis,0,1,5.034
-2021-01-06,2021,6,Russia,Energy Company,Gazprom,Project Analysis,0,1,24.698
-2021-01-06,2021,6,United Kingdom,Banking,Simmons Energy,Country Analysis,0,1,3.713
-2021-01-06,2021,6,United States,Oilfield Service Company,Oceaneering,Wind Technical Analysis,0,1,21.684
-2021-02-06,2021,6,Australia,Consulting,KPMG,Project Analysis,4,5,123.965
-2021-02-06,2021,6,Australia,Energy Company,Origin Energy,Solar PV Technical Analysis,0,1,5.604
-2021-02-06,2021,6,Australia,Energy Company,Origin Energy,Watts Generating - Australia,1,2,6.74
-2021-02-06,2021,6,Australia,Other,APA Group,Solar PV Technical Analysis,0,1,5.447
-2021-02-06,2021,6,Australia,Other,Maoneng,Country Analysis,0,1,4.949
-2021-02-06,2021,6,Australia,Other,Maoneng,Project Analysis,0,1,0.0
-2021-02-06,2021,6,Australia,Other,Maoneng,Renewables  - Economic Analysis,0,1,4.948
-2021-02-06,2021,6,Australia,Other,Maoneng,Watts Generating - Australia,0,1,3.337
-2021-02-06,2021,6,Australia,Other,MUFG,Country Analysis,1,1,3.6
-2021-02-06,2021,6,Australia,Other,MUFG,Project Analysis,0,2,8.023
-2021-02-06,2021,6,Australia,Other,SunPower,Country Analysis,1,1,3.538
-2021-02-06,2021,6,Australia,Other,SunPower,Project Analysis,1,1,3.999
-2021-02-06,2021,6,Australia,Renewable Energy Company,Austrade,Country Analysis,1,1,8.205
-2021-02-06,2021,6,Australia,Renewable Energy Company,Austrade,Project Analysis,3,4,33.294
-2021-02-06,2021,6,Australia,Renewable Energy Company,Transgrid,Watts Generating - Australia,3,10,13.348
-2021-02-06,2021,6,France,Oilfield Service Company,Schlumberger,CCS Market Analysis,0,1,11.174
-2021-02-06,2021,6,India,Other,NexTracker,Project Analysis,1,1,6.759
-2021-02-06,2021,6,Malaysia,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,2,2,2.72
-2021-02-06,2021,6,Norway,Banking,Nordea,Wind Technical Analysis,0,1,4.885
-2021-02-06,2021,6,Norway,Broker,Fearnley Offshore Supply,Wind Technical Analysis,0,1,4.913
-2021-02-06,2021,6,Norway,Oilfield Service Company,Halliburton,Hydrogen Analysis,4,2,3.382
-2021-02-06,2021,6,United Kingdom,Banking,Simmons Energy,Country Analysis,3,3,10.395
-2021-02-06,2021,6,United Kingdom,Banking,Simmons Energy,Project Analysis,0,1,9.463
-2021-02-06,2021,6,United Kingdom,Banking,Simmons Energy,Wind Technical Analysis,0,1,8.378
-2021-02-06,2021,6,United States,Energy Company,EOG Resources,CCS Market Analysis,2,2,5.403
-2021-02-06,2021,6,United States,Energy Company,EOG Resources,Hydrogen Analysis,12,6,6.462
-2021-03-06,2021,6,Australia,Energy Company,RWE,Project Analysis,2,1,5.565
-2021-03-06,2021,6,Australia,Energy Company,Woodside,Project Analysis,2,3,21.017
-2021-03-06,2021,6,Australia,Energy Company,Woodside,Renewables  - Economic Analysis,0,1,17.981
-2021-03-06,2021,6,Australia,Energy Company,Woodside,Solar PV Technical Analysis,0,1,4.792
-2021-03-06,2021,6,Australia,Other,MUFG,Project Analysis,0,1,4.199
-2021-03-06,2021,6,Australia,Other,SunPower,Project Analysis,0,1,4.854
-2021-03-06,2021,6,Australia,Renewable Energy Company,Pacific Hydro,Country Analysis,1,1,6.201
-2021-03-06,2021,6,Australia,Renewable Energy Company,Pacific Hydro,Project Analysis,3,3,14.66
-2021-03-06,2021,6,Australia,Renewable Energy Company,Pacific Hydro,Renewables  - Economic Analysis,2,1,4.781
-2021-03-06,2021,6,Australia,Renewable Energy Company,RES Australia,Project Analysis,0,1,7.083
-2021-03-06,2021,6,Australia,Renewable Energy Company,RES Australia,Watts Generating - Australia,4,1,6.717
-2021-03-06,2021,6,Australia,Renewable Energy Service Company,Clean Energy Council,Project Analysis,1,2,12.142
-2021-03-06,2021,6,Brazil,Oilfield Service Company,Schlumberger,CCS Market Analysis,0,1,3.436
-2021-03-06,2021,6,Canada,Energy Company,Enerflex,Battery Analysis,2,1,3.439
-2021-03-06,2021,6,Canada,Energy Company,Enerflex,CCS Market Analysis,2,1,5.455
-2021-03-06,2021,6,Canada,Energy Company,Enerflex,Hydrogen Analysis,1,1,2.958
-2021-03-06,2021,6,Japan,Energy Company,Cosmo Energy,Storage Technical Analysis,0,1,24.194
-2021-03-06,2021,6,Norway,Other,ABB,Project Analysis,2,1,16.754
-2021-03-06,2021,6,Singapore,Banking,HSBC,Project Analysis,0,1,10.763
-2021-03-06,2021,6,Singapore,Banking,HSBC,Renewables  - Economic Analysis,0,2,6.224
-2021-04-06,2021,6,Australia,Consulting,KPMG,Mergers & Acquisitions,2,2,134.14
-2021-04-06,2021,6,Australia,Consulting,KPMG,Solar PV Technical Analysis,2,4,22.339
-2021-04-06,2021,6,Australia,Energy Company,Woodside,Project Analysis,1,1,4.739
-2021-04-06,2021,6,Australia,Government bodies & Organizations,Victorian Government,Project Analysis,2,1,5.573
-2021-04-06,2021,6,Australia,Other,CEFC,Project Analysis,5,1,6.488
-2021-04-06,2021,6,Australia,Other,Maoneng,Project Analysis,1,1,5.503
-2021-04-06,2021,6,Australia,Other,SunPower,Country Analysis,2,1,3.122
-2021-04-06,2021,6,Australia,Other,SunPower,Project Analysis,2,6,14.771
-2021-04-06,2021,6,Australia,Other,Windlab,Country Analysis,0,1,3.52
-2021-04-06,2021,6,Australia,Other,Windlab,Project Analysis,0,2,7.777
-2021-04-06,2021,6,Australia,Other,Windlab,Watts Generating - Australia,2,2,2.849
-2021-04-06,2021,6,Australia,Renewable Energy Company,Austrade,Project Analysis,1,1,7.262
-2021-04-06,2021,6,Australia,Renewable Energy Company,Canadian Solar,Project Analysis,1,1,5.159
-2021-04-06,2021,6,Australia,Renewable Energy Company,RES Australia,Project Analysis,2,2,31.672
-2021-04-06,2021,6,Australia,Renewable Energy Company,RES Australia,Watts Generating - Australia,18,2,9.446
-2021-04-06,2021,6,Japan,Energy Company,Eneos,Project Analysis,0,1,21.041
-2021-04-06,2021,6,Netherlands,Banking,ABN AMRO Bank,Project Analysis,0,3,18.638
-2021-04-06,2021,6,Netherlands,Oilfield Service Company,Royal IHC,Wind Technical Analysis,0,1,6.333
-2021-04-06,2021,6,Spain,Renewable Energy Company,X-Elio,Project Analysis,1,1,6.804
-2021-05-06,2021,6,Australia,Other,Windlab,Watts Generating - Australia,1,1,1.999
-2021-05-06,2021,6,Brazil,Oilfield Service Company,Schlumberger,CCS Market Analysis,0,1,3.68
+2021-06-01,2021,6,Australia,Energy Company,Enerven,Project Analysis,0,2,58.899
+2021-06-01,2021,6,Australia,Energy Company,Origin Energy,Project Analysis,0,1,0.0
+2021-06-01,2021,6,Australia,Energy Company,Origin Energy,Watts Generating - Australia,0,1,4.48
+2021-06-01,2021,6,Australia,Other,AGL,Project Analysis,1,1,8.515
+2021-06-01,2021,6,Australia,Other,APA Group,Project Analysis,0,1,6.123
+2021-06-01,2021,6,Australia,Other,Windlab,Project Analysis,5,3,14.739
+2021-06-01,2021,6,Australia,Renewable Energy Company,RES Australia,Project Analysis,4,1,9.266
+2021-06-01,2021,6,Australia,Renewable Energy Service Company,GE Renewable Energy,Project Analysis,0,1,11.067
+2021-06-01,2021,6,Brazil,Oilfield Service Company,Schlumberger,CCS Market Analysis,0,1,4.403
+2021-06-01,2021,6,Canada,Energy Company,Chevron,CCS Market Analysis,5,2,6.528
+2021-06-01,2021,6,Canada,Energy Company,Enerflex,CCS Market Analysis,6,3,13.746
+2021-06-01,2021,6,China,Oilfield Service Company,COSL,Wind Technical Analysis,1,1,8.124
+2021-06-01,2021,6,France,Oilfield Service Company,Schlumberger,CCS Market Analysis,2,2,8.944
+2021-06-01,2021,6,Italy,Other,DNV,Solar PV Technical Analysis,0,1,8.433
+2021-06-01,2021,6,Netherlands,Banking,ABN AMRO Bank,Country Analysis,0,1,3.876
+2021-06-01,2021,6,Netherlands,Banking,ABN AMRO Bank,Project Analysis,0,1,5.305
+2021-06-01,2021,6,Norway,Oilfield Service Company,Halliburton,Hydrogen Analysis,2,3,7.083
+2021-06-01,2021,6,Norway,Other,Gard,Wind Technical Analysis,0,1,5.034
+2021-06-01,2021,6,Russia,Energy Company,Gazprom,Project Analysis,0,1,24.698
+2021-06-01,2021,6,United Kingdom,Banking,Simmons Energy,Country Analysis,0,1,3.713
+2021-06-01,2021,6,United States,Oilfield Service Company,Oceaneering,Wind Technical Analysis,0,1,21.684
+2021-06-02,2021,6,Australia,Consulting,KPMG,Project Analysis,4,5,123.965
+2021-06-02,2021,6,Australia,Energy Company,Origin Energy,Solar PV Technical Analysis,0,1,5.604
+2021-06-02,2021,6,Australia,Energy Company,Origin Energy,Watts Generating - Australia,1,2,6.74
+2021-06-02,2021,6,Australia,Other,APA Group,Solar PV Technical Analysis,0,1,5.447
+2021-06-02,2021,6,Australia,Other,Maoneng,Country Analysis,0,1,4.949
+2021-06-02,2021,6,Australia,Other,Maoneng,Project Analysis,0,1,0.0
+2021-06-02,2021,6,Australia,Other,Maoneng,Renewables  - Economic Analysis,0,1,4.948
+2021-06-02,2021,6,Australia,Other,Maoneng,Watts Generating - Australia,0,1,3.337
+2021-06-02,2021,6,Australia,Other,MUFG,Country Analysis,1,1,3.6
+2021-06-02,2021,6,Australia,Other,MUFG,Project Analysis,0,2,8.023
+2021-06-02,2021,6,Australia,Other,SunPower,Country Analysis,1,1,3.538
+2021-06-02,2021,6,Australia,Other,SunPower,Project Analysis,1,1,3.999
+2021-06-02,2021,6,Australia,Renewable Energy Company,Austrade,Country Analysis,1,1,8.205
+2021-06-02,2021,6,Australia,Renewable Energy Company,Austrade,Project Analysis,3,4,33.294
+2021-06-02,2021,6,Australia,Renewable Energy Company,Transgrid,Watts Generating - Australia,3,10,13.348
+2021-06-02,2021,6,France,Oilfield Service Company,Schlumberger,CCS Market Analysis,0,1,11.174
+2021-06-02,2021,6,India,Other,NexTracker,Project Analysis,1,1,6.759
+2021-06-02,2021,6,Malaysia,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,2,2,2.72
+2021-06-02,2021,6,Norway,Banking,Nordea,Wind Technical Analysis,0,1,4.885
+2021-06-02,2021,6,Norway,Broker,Fearnley Offshore Supply,Wind Technical Analysis,0,1,4.913
+2021-06-02,2021,6,Norway,Oilfield Service Company,Halliburton,Hydrogen Analysis,4,2,3.382
+2021-06-02,2021,6,United Kingdom,Banking,Simmons Energy,Country Analysis,3,3,10.395
+2021-06-02,2021,6,United Kingdom,Banking,Simmons Energy,Project Analysis,0,1,9.463
+2021-06-02,2021,6,United Kingdom,Banking,Simmons Energy,Wind Technical Analysis,0,1,8.378
+2021-06-02,2021,6,United States,Energy Company,EOG Resources,CCS Market Analysis,2,2,5.403
+2021-06-02,2021,6,United States,Energy Company,EOG Resources,Hydrogen Analysis,12,6,6.462
+2021-06-03,2021,6,Australia,Energy Company,RWE,Project Analysis,2,1,5.565
+2021-06-03,2021,6,Australia,Energy Company,Woodside,Project Analysis,2,3,21.017
+2021-06-03,2021,6,Australia,Energy Company,Woodside,Renewables  - Economic Analysis,0,1,17.981
+2021-06-03,2021,6,Australia,Energy Company,Woodside,Solar PV Technical Analysis,0,1,4.792
+2021-06-03,2021,6,Australia,Other,MUFG,Project Analysis,0,1,4.199
+2021-06-03,2021,6,Australia,Other,SunPower,Project Analysis,0,1,4.854
+2021-06-03,2021,6,Australia,Renewable Energy Company,Pacific Hydro,Country Analysis,1,1,6.201
+2021-06-03,2021,6,Australia,Renewable Energy Company,Pacific Hydro,Project Analysis,3,3,14.66
+2021-06-03,2021,6,Australia,Renewable Energy Company,Pacific Hydro,Renewables  - Economic Analysis,2,1,4.781
+2021-06-03,2021,6,Australia,Renewable Energy Company,RES Australia,Project Analysis,0,1,7.083
+2021-06-03,2021,6,Australia,Renewable Energy Company,RES Australia,Watts Generating - Australia,4,1,6.717
+2021-06-03,2021,6,Australia,Renewable Energy Service Company,Clean Energy Council,Project Analysis,1,2,12.142
+2021-06-03,2021,6,Brazil,Oilfield Service Company,Schlumberger,CCS Market Analysis,0,1,3.436
+2021-06-03,2021,6,Canada,Energy Company,Enerflex,Battery Analysis,2,1,3.439
+2021-06-03,2021,6,Canada,Energy Company,Enerflex,CCS Market Analysis,2,1,5.455
+2021-06-03,2021,6,Canada,Energy Company,Enerflex,Hydrogen Analysis,1,1,2.958
+2021-06-03,2021,6,Japan,Energy Company,Cosmo Energy,Storage Technical Analysis,0,1,24.194
+2021-06-03,2021,6,Norway,Other,ABB,Project Analysis,2,1,16.754
+2021-06-03,2021,6,Singapore,Banking,HSBC,Project Analysis,0,1,10.763
+2021-06-03,2021,6,Singapore,Banking,HSBC,Renewables  - Economic Analysis,0,2,6.224
+2021-06-04,2021,6,Australia,Consulting,KPMG,Mergers & Acquisitions,2,2,134.14
+2021-06-04,2021,6,Australia,Consulting,KPMG,Solar PV Technical Analysis,2,4,22.339
+2021-06-04,2021,6,Australia,Energy Company,Woodside,Project Analysis,1,1,4.739
+2021-06-04,2021,6,Australia,Government bodies & Organizations,Victorian Government,Project Analysis,2,1,5.573
+2021-06-04,2021,6,Australia,Other,CEFC,Project Analysis,5,1,6.488
+2021-06-04,2021,6,Australia,Other,Maoneng,Project Analysis,1,1,5.503
+2021-06-04,2021,6,Australia,Other,SunPower,Country Analysis,2,1,3.122
+2021-06-04,2021,6,Australia,Other,SunPower,Project Analysis,2,6,14.771
+2021-06-04,2021,6,Australia,Other,Windlab,Country Analysis,0,1,3.52
+2021-06-04,2021,6,Australia,Other,Windlab,Project Analysis,0,2,7.777
+2021-06-04,2021,6,Australia,Other,Windlab,Watts Generating - Australia,2,2,2.849
+2021-06-04,2021,6,Australia,Renewable Energy Company,Austrade,Project Analysis,1,1,7.262
+2021-06-04,2021,6,Australia,Renewable Energy Company,Canadian Solar,Project Analysis,1,1,5.159
+2021-06-04,2021,6,Australia,Renewable Energy Company,RES Australia,Project Analysis,2,2,31.672
+2021-06-04,2021,6,Australia,Renewable Energy Company,RES Australia,Watts Generating - Australia,18,2,9.446
+2021-06-04,2021,6,Japan,Energy Company,Eneos,Project Analysis,0,1,21.041
+2021-06-04,2021,6,Netherlands,Banking,ABN AMRO Bank,Project Analysis,0,3,18.638
+2021-06-04,2021,6,Netherlands,Oilfield Service Company,Royal IHC,Wind Technical Analysis,0,1,6.333
+2021-06-04,2021,6,Spain,Renewable Energy Company,X-Elio,Project Analysis,1,1,6.804
+2021-06-05,2021,6,Australia,Other,Windlab,Watts Generating - Australia,1,1,1.999
+2021-06-05,2021,6,Brazil,Oilfield Service Company,Schlumberger,CCS Market Analysis,0,1,3.68
 2021-06-06,2021,6,Netherlands,Oilfield Service Company,Schlumberger,Country Analysis,19,3,10.285
 2021-06-06,2021,6,Netherlands,Oilfield Service Company,Schlumberger,Renewables  - Economic Analysis,15,10,17.509
 2021-06-06,2021,6,Netherlands,Oilfield Service Company,Schlumberger,Renewables – E&P Companies,6,2,7.433
-2021-07-06,2021,6,Australia,Consulting,KPMG,Mergers & Acquisitions,0,1,72.944
-2021-07-06,2021,6,Australia,Energy Company,Enerven,Project Analysis,0,2,23.717
-2021-07-06,2021,6,Australia,Other,CEFC,Country Analysis,1,1,13.057
-2021-07-06,2021,6,Australia,Other,CEFC,Project Analysis,0,1,15.325
-2021-07-06,2021,6,Australia,Other,CEFC,Wind Technical Analysis,0,1,11.659
-2021-07-06,2021,6,Australia,Other,Maoneng,Project Analysis,1,1,15.244
-2021-07-06,2021,6,Australia,Renewable Energy Company,Terabase,Country Analysis,0,1,8.147
-2021-07-06,2021,6,Australia,Renewable Energy Service Company,GE Renewable Energy,Project Analysis,0,1,14.404
-2021-07-06,2021,6,Brazil,Oilfield Service Company,Schlumberger,CCS Market Analysis,2,1,19.646
-2021-07-06,2021,6,Canada,Energy Company,Chevron,CCS Market Analysis,0,1,4.237
-2021-07-06,2021,6,Canada,Energy Company,Enerflex,CCS Market Analysis,17,8,23.129
-2021-07-06,2021,6,Netherlands,Oilfield Service Company,Schlumberger,Storage Technical Analysis,1,1,6.495
-2021-07-06,2021,6,Spain,Renewable Energy Company,X-Elio,Project Analysis,0,1,13.929
-2021-07-06,2021,6,United Kingdom,Banking,Simmons Energy,Wind Technical Analysis,2,1,3.233
-2021-07-06,2021,6,United Kingdom,Oilfield Service Company,Schlumberger,CCS Market Analysis,2,2,43.497
-2021-07-06,2021,6,United States,Energy Company,EOG Resources,CCS Market Analysis,3,3,20.218
-2021-07-06,2021,6,United States,Energy Company,EOG Resources,Hydrogen Analysis,4,4,7.975
-2021-07-06,2021,6,United States,Oilfield Service Company,Schlumberger,CCS Market Analysis,2,2,10.099
-2021-08-06,2021,6,Australia,Consulting,KPMG,Project Analysis,6,6,65.93
-2021-08-06,2021,6,Australia,Energy Company,Eneos,Watts Generating - Australia,4,1,3.935
-2021-08-06,2021,6,Australia,Energy Company,Engie,Project Analysis,0,1,7.866
-2021-08-06,2021,6,Australia,Other,CEFC,Watts Generating - Australia,4,1,6.912
-2021-08-06,2021,6,Australia,Other,Maoneng,Project Analysis,2,2,20.31
-2021-08-06,2021,6,Australia,Other,SMA,Country Analysis,0,1,10.884
-2021-08-06,2021,6,Australia,Other,SMA,Mergers & Acquisitions,0,1,9.696
-2021-08-06,2021,6,Australia,Other,SMA,Renewables  - Economic Analysis,1,2,14.861
-2021-08-06,2021,6,Australia,Other,Soltec,Solar PV Technical Analysis,0,1,53.481
-2021-08-06,2021,6,Australia,Renewable Energy Company,CWP Renewables,Project Analysis,1,2,49.921
-2021-08-06,2021,6,Australia,Renewable Energy Company,Pacific Hydro,Project Analysis,0,1,7.78
-2021-08-06,2021,6,Romania,Oilfield Service Company,Schlumberger,Renewables – E&P Companies,1,1,18.624
-2021-08-06,2021,6,United Kingdom,Oilfield Service Company,Proserv,Project Analysis,0,2,390.687
-2021-08-06,2021,6,United Kingdom,Oilfield Service Company,Proserv,Wind Technical Analysis,0,1,24.457
-2021-08-06,2021,6,United States,Energy Company,EOG Resources,CCS Market Analysis,6,2,18.25
-2021-09-06,2021,6,Australia,Consulting,KPMG,Project Analysis,3,2,10.095
-2021-09-06,2021,6,Australia,Energy Company,Enerven,Project Analysis,0,2,18.543
-2021-09-06,2021,6,Australia,Energy Company,Origin Energy,Project Analysis,2,1,5.572
-2021-09-06,2021,6,Australia,Other,Phillip Riley,Project Analysis,0,1,10.756
-2021-09-06,2021,6,Australia,Other,SMA,Project Analysis,0,1,5.959
-2021-09-06,2021,6,Australia,Other,SunPower,Country Analysis,0,2,11.899
-2021-09-06,2021,6,Australia,Other,SunPower,Project Analysis,1,2,4.915
-2021-09-06,2021,6,Australia,Other,Wirsol Energy,Country Analysis,1,1,4.818
-2021-09-06,2021,6,Australia,Other,Wirsol Energy,Renewables  - Economic Analysis,6,1,7.663
-2021-09-06,2021,6,Australia,Other,Wirsol Energy,Solar PV Technical Analysis,1,1,4.553
-2021-09-06,2021,6,Australia,Renewable Energy Company,CWP Renewables,Project Analysis,0,2,11.106
-2021-09-06,2021,6,Australia,Renewable Energy Company,Pacific Hydro,Project Analysis,0,2,11.403
-2021-09-06,2021,6,Australia,Renewable Energy Company,Vena Energy,Watts Generating - Australia,4,2,2.308
-2021-09-06,2021,6,Brazil,Oilfield Service Company,Schlumberger,CCS Market Analysis,1,1,3.777
-2021-09-06,2021,6,Canada,Energy Company,Enerflex,CCS Market Analysis,3,1,4.333
-2021-09-06,2021,6,Italy,Oilfield Service Company,Saipem,Project Analysis,0,1,40.095
-2021-09-06,2021,6,Netherlands,Banking,ABN AMRO Bank,Project Analysis,7,6,4.21
-2021-09-06,2021,6,Netherlands,Banking,ABN AMRO Bank,Solar PV Technical Analysis,1,1,3.224
-2021-09-06,2021,6,Netherlands,Other,HAL Investments,CCS Market Analysis,13,7,18.312
-2021-09-06,2021,6,Norway,Consulting,Arkwright,Country Analysis,1,1,2.876
-2021-09-06,2021,6,Norway,Consulting,Arkwright,Project Analysis,1,3,6.493
-2021-09-06,2021,6,Norway,Consulting,Arkwright,Renewables  - Economic Analysis,4,4,2.844
-2021-09-06,2021,6,Norway,Consulting,Arkwright,Renewables – E&P Companies,0,1,3.015
-2021-09-06,2021,6,Russia,Oilfield Service Company,Schlumberger,Project Analysis,2,1,6.035
-2021-09-06,2021,6,Spain,Other,Soltec,Country Analysis,3,1,5.97
-2021-09-06,2021,6,Spain,Other,Soltec,Project Analysis,0,1,7.141
-2021-09-06,2021,6,Spain,Other,Soltec,Renewables  - Economic Analysis,1,4,9.672
-2021-09-06,2021,6,United Kingdom,Banking,Goldman Sachs,Renewables  - Economic Analysis,2,3,10.773
-2021-09-06,2021,6,United Kingdom,Buy Side,Carlyle Energy Partners,Country Analysis,0,1,6.424
-2021-09-06,2021,6,United Kingdom,Buy Side,Carlyle Energy Partners,Mergers & Acquisitions,1,1,2.905
-2021-09-06,2021,6,United Kingdom,Other,Akzonobel,Project Analysis,1,1,6.041
-2021-09-06,2021,6,United Kingdom,Other,Akzonobel,Wind Technical Analysis,1,1,67.14
-2021-09-06,2021,6,United States,Buy Side,Morningstar,Wind Technical Analysis,0,1,3.433
-2021-09-06,2021,6,United States,Energy Company,Chevron,CCS Market Analysis,4,6,9.265
-2021-09-06,2021,6,United States,Oilfield Service Company,Schlumberger,Battery Analysis,9,42,65.03
-2021-09-06,2021,6,United States,Oilfield Service Company,Schlumberger,Storage Technical Analysis,2,1,13.545
-2021-10-06,2021,6,Australia,Energy Company,CS Energy,Mergers & Acquisitions,9,3,8.19
-2021-10-06,2021,6,Australia,Energy Company,CS Energy,Renewables  - Economic Analysis,5,1,4.696
-2021-10-06,2021,6,Australia,Energy Company,Enerven,Renewables  - Economic Analysis,0,1,5.469
-2021-10-06,2021,6,Australia,Energy Company,Enerven,Watts Generating - Australia,0,1,4.261
-2021-10-06,2021,6,Australia,Energy Company,Woodside,Country Analysis,0,1,6.246
-2021-10-06,2021,6,Australia,Oilfield Service Company,Worley,Project Analysis,3,1,6.476
-2021-10-06,2021,6,Australia,Other,Soltec,Solar PV Technical Analysis,0,1,5.054
-2021-10-06,2021,6,Australia,Renewable Energy Company,Sungrow,Solar PV Technical Analysis,2,1,6.449
-2021-10-06,2021,6,China,Banking,Goldman Sachs,Project Analysis,1,3,20.976
-2021-10-06,2021,6,Japan,Other,Inpex,Battery Analysis,1,1,3.418
-2021-10-06,2021,6,Japan,Other,Inpex,CCS Market Analysis,0,1,2.953
-2021-10-06,2021,6,Netherlands,Banking,ABN AMRO Bank,Project Analysis,13,2,12.566
-2021-10-06,2021,6,Norway,Consulting,McKinsey & Company,Country Analysis,3,1,98.984
-2021-10-06,2021,6,Norway,Consulting,McKinsey & Company,Mergers & Acquisitions,2,1,83.244
-2021-10-06,2021,6,Norway,Consulting,McKinsey & Company,Project Analysis,1,1,160.264
-2021-10-06,2021,6,Norway,Consulting,McKinsey & Company,Renewables  - Economic Analysis,5,1,5.387
-2021-10-06,2021,6,Norway,Consulting,McKinsey & Company,Storage Technical Analysis,2,2,3.165
-2021-10-06,2021,6,Norway,Consulting,McKinsey & Company,Wind Technical Analysis,0,1,99.801
-2021-10-06,2021,6,Norway,Oilfield Service Company,Baker Hughes,Project Analysis,0,1,8.819
-2021-10-06,2021,6,Norway,Other,BW Offshore,Wind Technical Analysis,0,1,4.286
-2021-10-06,2021,6,United Kingdom,Oilfield Service Company,Royal IHC,Project Analysis,0,1,5.802
-2021-10-06,2021,6,United Kingdom,Oilfield Service Company,Royal IHC,Wind Technical Analysis,0,1,5.39
-2021-10-06,2021,6,United Kingdom,Oilfield Service Company,Schlumberger,CCS Market Analysis,6,1,5.355
-2021-10-06,2021,6,United Kingdom,Other,Kirk Lovegrove & Company,Solar PV Technical Analysis,4,1,5.062
-2021-10-06,2021,6,United States,Oilfield Service Company,Oceaneering,Wind Technical Analysis,1,1,6.849
-2021-10-06,2021,6,United States,Oilfield Service Company,Schlumberger,Battery Analysis,4,2,7.695
-2021-11-06,2021,6,Australia,Consulting,KPMG,Renewables  - Economic Analysis,9,1,5.916
-2021-11-06,2021,6,Australia,Energy Company,Eneos,Project Analysis,0,1,10.603
-2021-11-06,2021,6,Australia,Energy Company,Eneos,Watts Generating - Australia,0,1,3.233
-2021-11-06,2021,6,Australia,Renewable Energy Company,Lightsource BP,Project Analysis,6,3,10.779
-2021-11-06,2021,6,Lithuania,Other,Oliasoft,CCS Market Analysis,0,3,86.322
-2021-11-06,2021,6,Malaysia,Oilfield Service Company,Schlumberger,CCS Market Analysis,1,2,3.807
-2021-11-06,2021,6,Norway,Consulting,Deloitte,Country Analysis,0,1,3.743
-2021-11-06,2021,6,Norway,Consulting,Deloitte,Mergers & Acquisitions,2,2,2.853
-2021-11-06,2021,6,Norway,Consulting,McKinsey & Company,Project Analysis,0,1,0.0
-2021-11-06,2021,6,Norway,Consulting,McKinsey & Company,Wind Technical Analysis,0,1,0.0
-2021-11-06,2021,6,United Kingdom,Consulting,McKinsey & Company,Mergers & Acquisitions,1,1,2.833
-2021-11-06,2021,6,United Kingdom,Other,Kirk Lovegrove & Company,Country Analysis,0,1,3.693
-2021-11-06,2021,6,United Kingdom,Other,Kirk Lovegrove & Company,Mergers & Acquisitions,2,1,4.855
-2021-11-06,2021,6,United Kingdom,Other,Kirk Lovegrove & Company,Project Analysis,0,1,6.504
-2021-11-06,2021,6,United Kingdom,Other,Kirk Lovegrove & Company,Renewables  - Economic Analysis,7,1,5.721
-2021-11-06,2021,6,United Kingdom,Other,Kirk Lovegrove & Company,Solar PV Technical Analysis,1,1,4.581
-2021-11-06,2021,6,United Kingdom,Other,Kirk Lovegrove & Company,Storage Technical Analysis,10,4,7.198
-2021-11-06,2021,6,United States,Banking,Goldman Sachs,Renewables  - Economic Analysis,3,1,5.653
-2021-11-06,2021,6,United States,Banking,Goldman Sachs,Solar PV Technical Analysis,2,2,18.688
-2021-11-06,2021,6,United States,Oilfield Service Company,Schlumberger,Country Analysis,14,4,9.687
+2021-06-07,2021,6,Australia,Consulting,KPMG,Mergers & Acquisitions,0,1,72.944
+2021-06-07,2021,6,Australia,Energy Company,Enerven,Project Analysis,0,2,23.717
+2021-06-07,2021,6,Australia,Other,CEFC,Country Analysis,1,1,13.057
+2021-06-07,2021,6,Australia,Other,CEFC,Project Analysis,0,1,15.325
+2021-06-07,2021,6,Australia,Other,CEFC,Wind Technical Analysis,0,1,11.659
+2021-06-07,2021,6,Australia,Other,Maoneng,Project Analysis,1,1,15.244
+2021-06-07,2021,6,Australia,Renewable Energy Company,Terabase,Country Analysis,0,1,8.147
+2021-06-07,2021,6,Australia,Renewable Energy Service Company,GE Renewable Energy,Project Analysis,0,1,14.404
+2021-06-07,2021,6,Brazil,Oilfield Service Company,Schlumberger,CCS Market Analysis,2,1,19.646
+2021-06-07,2021,6,Canada,Energy Company,Chevron,CCS Market Analysis,0,1,4.237
+2021-06-07,2021,6,Canada,Energy Company,Enerflex,CCS Market Analysis,17,8,23.129
+2021-06-07,2021,6,Netherlands,Oilfield Service Company,Schlumberger,Storage Technical Analysis,1,1,6.495
+2021-06-07,2021,6,Spain,Renewable Energy Company,X-Elio,Project Analysis,0,1,13.929
+2021-06-07,2021,6,United Kingdom,Banking,Simmons Energy,Wind Technical Analysis,2,1,3.233
+2021-06-07,2021,6,United Kingdom,Oilfield Service Company,Schlumberger,CCS Market Analysis,2,2,43.497
+2021-06-07,2021,6,United States,Energy Company,EOG Resources,CCS Market Analysis,3,3,20.218
+2021-06-07,2021,6,United States,Energy Company,EOG Resources,Hydrogen Analysis,4,4,7.975
+2021-06-07,2021,6,United States,Oilfield Service Company,Schlumberger,CCS Market Analysis,2,2,10.099
+2021-06-08,2021,6,Australia,Consulting,KPMG,Project Analysis,6,6,65.93
+2021-06-08,2021,6,Australia,Energy Company,Eneos,Watts Generating - Australia,4,1,3.935
+2021-06-08,2021,6,Australia,Energy Company,Engie,Project Analysis,0,1,7.866
+2021-06-08,2021,6,Australia,Other,CEFC,Watts Generating - Australia,4,1,6.912
+2021-06-08,2021,6,Australia,Other,Maoneng,Project Analysis,2,2,20.31
+2021-06-08,2021,6,Australia,Other,SMA,Country Analysis,0,1,10.884
+2021-06-08,2021,6,Australia,Other,SMA,Mergers & Acquisitions,0,1,9.696
+2021-06-08,2021,6,Australia,Other,SMA,Renewables  - Economic Analysis,1,2,14.861
+2021-06-08,2021,6,Australia,Other,Soltec,Solar PV Technical Analysis,0,1,53.481
+2021-06-08,2021,6,Australia,Renewable Energy Company,CWP Renewables,Project Analysis,1,2,49.921
+2021-06-08,2021,6,Australia,Renewable Energy Company,Pacific Hydro,Project Analysis,0,1,7.78
+2021-06-08,2021,6,Romania,Oilfield Service Company,Schlumberger,Renewables – E&P Companies,1,1,18.624
+2021-06-08,2021,6,United Kingdom,Oilfield Service Company,Proserv,Project Analysis,0,2,390.687
+2021-06-08,2021,6,United Kingdom,Oilfield Service Company,Proserv,Wind Technical Analysis,0,1,24.457
+2021-06-08,2021,6,United States,Energy Company,EOG Resources,CCS Market Analysis,6,2,18.25
+2021-06-09,2021,6,Australia,Consulting,KPMG,Project Analysis,3,2,10.095
+2021-06-09,2021,6,Australia,Energy Company,Enerven,Project Analysis,0,2,18.543
+2021-06-09,2021,6,Australia,Energy Company,Origin Energy,Project Analysis,2,1,5.572
+2021-06-09,2021,6,Australia,Other,Phillip Riley,Project Analysis,0,1,10.756
+2021-06-09,2021,6,Australia,Other,SMA,Project Analysis,0,1,5.959
+2021-06-09,2021,6,Australia,Other,SunPower,Country Analysis,0,2,11.899
+2021-06-09,2021,6,Australia,Other,SunPower,Project Analysis,1,2,4.915
+2021-06-09,2021,6,Australia,Other,Wirsol Energy,Country Analysis,1,1,4.818
+2021-06-09,2021,6,Australia,Other,Wirsol Energy,Renewables  - Economic Analysis,6,1,7.663
+2021-06-09,2021,6,Australia,Other,Wirsol Energy,Solar PV Technical Analysis,1,1,4.553
+2021-06-09,2021,6,Australia,Renewable Energy Company,CWP Renewables,Project Analysis,0,2,11.106
+2021-06-09,2021,6,Australia,Renewable Energy Company,Pacific Hydro,Project Analysis,0,2,11.403
+2021-06-09,2021,6,Australia,Renewable Energy Company,Vena Energy,Watts Generating - Australia,4,2,2.308
+2021-06-09,2021,6,Brazil,Oilfield Service Company,Schlumberger,CCS Market Analysis,1,1,3.777
+2021-06-09,2021,6,Canada,Energy Company,Enerflex,CCS Market Analysis,3,1,4.333
+2021-06-09,2021,6,Italy,Oilfield Service Company,Saipem,Project Analysis,0,1,40.095
+2021-06-09,2021,6,Netherlands,Banking,ABN AMRO Bank,Project Analysis,7,6,4.21
+2021-06-09,2021,6,Netherlands,Banking,ABN AMRO Bank,Solar PV Technical Analysis,1,1,3.224
+2021-06-09,2021,6,Netherlands,Other,HAL Investments,CCS Market Analysis,13,7,18.312
+2021-06-09,2021,6,Norway,Consulting,Arkwright,Country Analysis,1,1,2.876
+2021-06-09,2021,6,Norway,Consulting,Arkwright,Project Analysis,1,3,6.493
+2021-06-09,2021,6,Norway,Consulting,Arkwright,Renewables  - Economic Analysis,4,4,2.844
+2021-06-09,2021,6,Norway,Consulting,Arkwright,Renewables – E&P Companies,0,1,3.015
+2021-06-09,2021,6,Russia,Oilfield Service Company,Schlumberger,Project Analysis,2,1,6.035
+2021-06-09,2021,6,Spain,Other,Soltec,Country Analysis,3,1,5.97
+2021-06-09,2021,6,Spain,Other,Soltec,Project Analysis,0,1,7.141
+2021-06-09,2021,6,Spain,Other,Soltec,Renewables  - Economic Analysis,1,4,9.672
+2021-06-09,2021,6,United Kingdom,Banking,Goldman Sachs,Renewables  - Economic Analysis,2,3,10.773
+2021-06-09,2021,6,United Kingdom,Buy Side,Carlyle Energy Partners,Country Analysis,0,1,6.424
+2021-06-09,2021,6,United Kingdom,Buy Side,Carlyle Energy Partners,Mergers & Acquisitions,1,1,2.905
+2021-06-09,2021,6,United Kingdom,Other,Akzonobel,Project Analysis,1,1,6.041
+2021-06-09,2021,6,United Kingdom,Other,Akzonobel,Wind Technical Analysis,1,1,67.14
+2021-06-09,2021,6,United States,Buy Side,Morningstar,Wind Technical Analysis,0,1,3.433
+2021-06-09,2021,6,United States,Energy Company,Chevron,CCS Market Analysis,4,6,9.265
+2021-06-09,2021,6,United States,Oilfield Service Company,Schlumberger,Battery Analysis,9,42,65.03
+2021-06-09,2021,6,United States,Oilfield Service Company,Schlumberger,Storage Technical Analysis,2,1,13.545
+2021-06-10,2021,6,Australia,Energy Company,CS Energy,Mergers & Acquisitions,9,3,8.19
+2021-06-10,2021,6,Australia,Energy Company,CS Energy,Renewables  - Economic Analysis,5,1,4.696
+2021-06-10,2021,6,Australia,Energy Company,Enerven,Renewables  - Economic Analysis,0,1,5.469
+2021-06-10,2021,6,Australia,Energy Company,Enerven,Watts Generating - Australia,0,1,4.261
+2021-06-10,2021,6,Australia,Energy Company,Woodside,Country Analysis,0,1,6.246
+2021-06-10,2021,6,Australia,Oilfield Service Company,Worley,Project Analysis,3,1,6.476
+2021-06-10,2021,6,Australia,Other,Soltec,Solar PV Technical Analysis,0,1,5.054
+2021-06-10,2021,6,Australia,Renewable Energy Company,Sungrow,Solar PV Technical Analysis,2,1,6.449
+2021-06-10,2021,6,China,Banking,Goldman Sachs,Project Analysis,1,3,20.976
+2021-06-10,2021,6,Japan,Other,Inpex,Battery Analysis,1,1,3.418
+2021-06-10,2021,6,Japan,Other,Inpex,CCS Market Analysis,0,1,2.953
+2021-06-10,2021,6,Netherlands,Banking,ABN AMRO Bank,Project Analysis,13,2,12.566
+2021-06-10,2021,6,Norway,Consulting,McKinsey & Company,Country Analysis,3,1,98.984
+2021-06-10,2021,6,Norway,Consulting,McKinsey & Company,Mergers & Acquisitions,2,1,83.244
+2021-06-10,2021,6,Norway,Consulting,McKinsey & Company,Project Analysis,1,1,160.264
+2021-06-10,2021,6,Norway,Consulting,McKinsey & Company,Renewables  - Economic Analysis,5,1,5.387
+2021-06-10,2021,6,Norway,Consulting,McKinsey & Company,Storage Technical Analysis,2,2,3.165
+2021-06-10,2021,6,Norway,Consulting,McKinsey & Company,Wind Technical Analysis,0,1,99.801
+2021-06-10,2021,6,Norway,Oilfield Service Company,Baker Hughes,Project Analysis,0,1,8.819
+2021-06-10,2021,6,Norway,Other,BW Offshore,Wind Technical Analysis,0,1,4.286
+2021-06-10,2021,6,United Kingdom,Oilfield Service Company,Royal IHC,Project Analysis,0,1,5.802
+2021-06-10,2021,6,United Kingdom,Oilfield Service Company,Royal IHC,Wind Technical Analysis,0,1,5.39
+2021-06-10,2021,6,United Kingdom,Oilfield Service Company,Schlumberger,CCS Market Analysis,6,1,5.355
+2021-06-10,2021,6,United Kingdom,Other,Kirk Lovegrove & Company,Solar PV Technical Analysis,4,1,5.062
+2021-06-10,2021,6,United States,Oilfield Service Company,Oceaneering,Wind Technical Analysis,1,1,6.849
+2021-06-10,2021,6,United States,Oilfield Service Company,Schlumberger,Battery Analysis,4,2,7.695
+2021-06-11,2021,6,Australia,Consulting,KPMG,Renewables  - Economic Analysis,9,1,5.916
+2021-06-11,2021,6,Australia,Energy Company,Eneos,Project Analysis,0,1,10.603
+2021-06-11,2021,6,Australia,Energy Company,Eneos,Watts Generating - Australia,0,1,3.233
+2021-06-11,2021,6,Australia,Renewable Energy Company,Lightsource BP,Project Analysis,6,3,10.779
+2021-06-11,2021,6,Lithuania,Other,Oliasoft,CCS Market Analysis,0,3,86.322
+2021-06-11,2021,6,Malaysia,Oilfield Service Company,Schlumberger,CCS Market Analysis,1,2,3.807
+2021-06-11,2021,6,Norway,Consulting,Deloitte,Country Analysis,0,1,3.743
+2021-06-11,2021,6,Norway,Consulting,Deloitte,Mergers & Acquisitions,2,2,2.853
+2021-06-11,2021,6,Norway,Consulting,McKinsey & Company,Project Analysis,0,1,0.0
+2021-06-11,2021,6,Norway,Consulting,McKinsey & Company,Wind Technical Analysis,0,1,0.0
+2021-06-11,2021,6,United Kingdom,Consulting,McKinsey & Company,Mergers & Acquisitions,1,1,2.833
+2021-06-11,2021,6,United Kingdom,Other,Kirk Lovegrove & Company,Country Analysis,0,1,3.693
+2021-06-11,2021,6,United Kingdom,Other,Kirk Lovegrove & Company,Mergers & Acquisitions,2,1,4.855
+2021-06-11,2021,6,United Kingdom,Other,Kirk Lovegrove & Company,Project Analysis,0,1,6.504
+2021-06-11,2021,6,United Kingdom,Other,Kirk Lovegrove & Company,Renewables  - Economic Analysis,7,1,5.721
+2021-06-11,2021,6,United Kingdom,Other,Kirk Lovegrove & Company,Solar PV Technical Analysis,1,1,4.581
+2021-06-11,2021,6,United Kingdom,Other,Kirk Lovegrove & Company,Storage Technical Analysis,10,4,7.198
+2021-06-11,2021,6,United States,Banking,Goldman Sachs,Renewables  - Economic Analysis,3,1,5.653
+2021-06-11,2021,6,United States,Banking,Goldman Sachs,Solar PV Technical Analysis,2,2,18.688
+2021-06-11,2021,6,United States,Oilfield Service Company,Schlumberger,Country Analysis,14,4,9.687
 2021-06-14,2021,6,Australia,Industrial,Wesfarmers,Project Analysis,2,1,7.241
 2021-06-14,2021,6,Australia,Other,APA Group,Project Analysis,0,1,5.303
 2021-06-14,2021,6,Australia,Other,Tilt Renewables,Project Analysis,0,1,4.942
